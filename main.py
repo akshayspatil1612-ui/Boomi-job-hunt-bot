@@ -49,10 +49,10 @@ def run_full_pipeline(resume_path: str = None):
     dashboard_url = f"https://{github_username}.github.io/{github_reponame}/" if github_username else ""
 
     print(f"\n{'='*60}")
-    print(f"🚀 QA JOB HUNT BOT - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"🚀 BOOMI DEVELOPER JOB HUNT BOT - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"🤖 Gemini AI (FREE) | {'☁️ GitHub Actions' if is_github else '💻 Local'}")
     print(f"{'='*60}")
-    print(f"👤 {profile['personal'].get('name', 'QA Engineer')}")
+    print(f"👤 {profile['personal'].get('name', 'Boomi Developer')}")
     print(f"{'='*60}\n")
 
     # ── STEP 1: SCRAPE ──────────────────────────────────────────
@@ -181,7 +181,7 @@ def main():
 
     if args.test_email:
         from reporter.email_sender import send_report_email
-        html = "<div style='font-family:Arial;padding:30px;text-align:center'><h1>✅ Job Bot Working!</h1></div>"
+        html = "<div style='font-family:Arial;padding:30px;text-align:center'><h1>✅ Boomi Job Bot Working!</h1></div>"
         send_report_email(html, 0, 0)
         return
 
