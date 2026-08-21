@@ -54,7 +54,9 @@ def title_based_score(job: dict, profile: dict) -> dict:
     exp = profile.get("experience_years", 0)
     if isinstance(exp, str):
         try:
-            exp = int(profile.get("experience_years", 0))  # Convert to int
+            exp = profile.get("experience_years", 0)
+            exp = int(exp) if isinstance(exp, str) else exp    # Convert to int
+            
             if exp >= 4 and any(w in title for w in ["senior", "lead", "principal"]):
                 score += 20
                 reasons.append("Seniority match matches your experience")
