@@ -16,11 +16,12 @@ PROFILE_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config"
 
 GEMINI_MODEL = "gemini-2.0-flash"  # Current free tier model
 
-QA_TITLE_KEYWORDS = [
-    "qa automation", "test automation", "sdet", "quality assurance",
-    "selenium", "playwright", "cypress", "appium", "software tester",
-    "automation engineer", "quality engineer", "test engineer", "qa engineer",
-    "qa analyst", "automation tester", "software testing", "qa lead"
+BOOMI_TITLE_KEYWORDS = [
+    "boomi developer", "boomi integration", "integration developer",
+    "boomi engineer", "boomi consultant", "api integration",
+    "dell boomi", "integration architect", "boomi cloud",
+    "edi developer", "data transformation", "boomi atomsphere",
+    "boomi specialist", "integration engineer", "mulesoft", "talend"
 ]
 
 
@@ -49,12 +50,19 @@ def title_based_score(job: dict, profile: dict) -> dict:
     reasons = []
     missing = []
 
-    if any(kw in title for kw in QA_TITLE_KEYWORDS):
-        score += 50
-        reasons.append("Job title matches QA/Testing domain")
-
+    # Ensure experience_years is an integer
     exp = profile.get("experience_years", 0)
-    if exp >= 4 and any(w in title for w in ["senior", "lead", "principal"]):
+    if isinstance(exp, str):
+        try:
+            exp = int(exp)
+        except (ValueError, TypeError):
+            exp = 0
+
+    if any(kw in title for kw in BOOMI_TITLE_KEYWORDS):
+        score += 50
+        reasons.append("Job title matches Boomi/Integration domain")
+
+    if exp >= 3 and any(w in title for w in ["senior", "lead", "principal", "architect"]):
         score += 20
         reasons.append("Seniority level matches your experience")
     elif not any(w in title for w in ["senior", "lead", "junior", "principal"]):
@@ -62,8 +70,9 @@ def title_based_score(job: dict, profile: dict) -> dict:
         reasons.append("Mid-level position matches your profile")
 
     profile_skills = (
-        profile.get("tech_skills", {}).get("test_frameworks", []) +
-        profile.get("tech_skills", {}).get("programming_languages", [])
+        profile.get("tech_skills", {}).get("boomi_specific", []) +
+        profile.get("tech_skills", {}).get("programming_languages", []) +
+        profile.get("tech_skills", {}).get("integration_tools", [])
     )
     for skill in profile_skills:
         if skill.lower() in title:
@@ -72,13 +81,13 @@ def title_based_score(job: dict, profile: dict) -> dict:
             break
 
     skill_names = [s.lower() for s in profile_skills]
-    if "cypress" not in skill_names: missing.append("Cypress")
-    if "playwright" not in skill_names: missing.append("Playwright")
-    if "k6" not in skill_names: missing.append("K6 performance testing")
+    if "mulesoft" not in skill_names: missing.append("MuleSoft")
+    if "talend" not in skill_names: missing.append("Talend")
+    if "api management" not in skill_names: missing.append("API Management")
 
     return {
         "match_score": min(score, 85),
-        "match_reasons": reasons or ["QA role matching your profile"],
+        "match_reasons": reasons or ["Boomi/Integration role matching your profile"],
         "missing_skills": missing[:3],
         "nice_to_have_present": [],
         "recommendation": "APPLY" if score >= 50 else "MAYBE",
@@ -94,9 +103,9 @@ def match_job_to_profile(job: dict, profile: dict, model) -> dict:
         "experience_years": profile.get("experience_years", 0),
         "current_level": profile.get("current_level", "mid"),
         "job_titles": profile.get("job_titles", []),
-        "test_frameworks": profile["tech_skills"].get("test_frameworks", []),
+        "boomi_specific": profile["tech_skills"].get("boomi_specific", []),
         "programming_languages": profile["tech_skills"].get("programming_languages", []),
-        "api_testing": profile["tech_skills"].get("api_testing", []),
+        "integration_tools": profile["tech_skills"].get("integration_tools", []),
         "ci_cd": profile["tech_skills"].get("ci_cd", []),
         "methodologies": profile.get("methodologies", []),
     }
@@ -107,7 +116,7 @@ def match_job_to_profile(job: dict, profile: dict, model) -> dict:
         job.update(title_based_score(job, profile))
         return job
 
-    prompt = f"""You are a QA job recruiter. Score this candidate vs job.
+    prompt = f"""You are a Boomi Integration recruiter. Score this candidate vs job.
 
 CANDIDATE:
 {json.dumps(profile_summary, indent=2)}
@@ -117,13 +126,13 @@ Title: {job.get('title', 'N/A')}
 Company: {job.get('company', 'N/A')}
 Description: {description[:2000]}
 
-Rules: QA role + QA candidate = minimum score 50.
+Rules: Boomi/Integration role + Boomi/Integration candidate = minimum score 50.
 
 Return ONLY JSON, no markdown:
 {{
   "match_score": 75,
-  "match_reasons": ["Has Selenium", "Java matches"],
-  "missing_skills": ["Cypress", "K6"],
+  "match_reasons": ["Has Boomi experience", "Java matches"],
+  "missing_skills": ["MuleSoft", "Talend"],
   "nice_to_have_present": ["JIRA"],
   "recommendation": "APPLY",
   "recommendation_reason": "Strong core match",
@@ -195,22 +204,22 @@ def generate_skill_gap_analysis(all_jobs: list, profile: dict, api_key: str) -> 
         all_missing.extend(job.get("missing_skills", []))
     missing_counts = Counter(all_missing).most_common(15)
     if not missing_counts:
-        missing_counts = [("Cypress", 5), ("Playwright", 4), ("K6", 3), ("Docker", 3)]
+        missing_counts = [("MuleSoft", 5), ("Talend", 4), ("Kubernetes", 3), ("Docker", 3)]
 
-    prompt = f"""QA career coach. {profile.get('experience_years', 3)} years exp candidate.
-Skills: {', '.join(profile['tech_skills'].get('test_frameworks', []) + profile['tech_skills'].get('programming_languages', []))}
+    prompt = f"""Boomi Integration career coach. {profile.get('experience_years', 3)} years exp candidate.
+Skills: {', '.join(profile['tech_skills'].get('boomi_specific', []) + profile['tech_skills'].get('programming_languages', []))}
 Frequently missing: {json.dumps(missing_counts)}
 
 Return ONLY JSON, no markdown:
 {{
   "critical_skills_to_learn": [
-    {{"skill": "Cypress", "reason": "High demand", "learning_time": "2-4 weeks", "resources": ["cypress.io/docs"]}}
+    {{"skill": "MuleSoft", "reason": "Enterprise integration platform", "learning_time": "4-6 weeks", "resources": ["mulesoft.com/training"]}}
   ],
-  "trending_in_qa": ["AI testing", "Shift-left"],
+  "trending_in_integration": ["iPaaS", "Hybrid integrations", "API-first architecture"],
   "certifications_recommended": [
-    {{"cert": "ISTQB Advanced", "reason": "Senior roles", "url": "istqb.org"}}
+    {{"cert": "Dell Boomi Certified Advanced", "reason": "Specialist credentials", "url": "dell.com/boomi"}}
   ],
-  "quick_wins": ["Learn K6 - 1 week", "Add Docker - 3 days"],
+  "quick_wins": ["Learn Talend - 2 weeks", "Master API Gateway - 1 week"],
   "career_advice": "Personalized advice."
 }}"""
 
@@ -221,12 +230,12 @@ Return ONLY JSON, no markdown:
         print(f"⚠️ Skill gap error: {e}")
         return {
             "critical_skills_to_learn": [
-                {"skill": "Cypress", "reason": "Modern JS framework, high demand", "learning_time": "2-4 weeks", "resources": ["cypress.io/docs"]},
-                {"skill": "Playwright", "reason": "Microsoft automation tool", "learning_time": "2-3 weeks", "resources": ["playwright.dev"]},
-                {"skill": "K6", "reason": "Performance testing tool", "learning_time": "1 week", "resources": ["k6.io/docs"]},
+                {"skill": "MuleSoft", "reason": "Enterprise iPaaS platform, high demand", "learning_time": "4-6 weeks", "resources": ["mulesoft.com/training"]},
+                {"skill": "Talend", "reason": "Data integration and ETL tool", "learning_time": "3-4 weeks", "resources": ["talend.com/learn"]},
+                {"skill": "Kubernetes", "reason": "Container orchestration for cloud integrations", "learning_time": "3-4 weeks", "resources": ["kubernetes.io/docs"]},
             ],
-            "trending_in_qa": ["AI-powered testing", "Shift-left testing", "API contract testing"],
-            "certifications_recommended": [{"cert": "ISTQB Advanced", "reason": "Valued for senior roles", "url": "istqb.org"}],
-            "quick_wins": ["Add Docker basics to profile", "Learn GitHub Actions CI/CD"],
-            "career_advice": f"With {profile.get('experience_years',5)} years Selenium/Java experience, focus on Playwright or Cypress to expand globally."
+            "trending_in_integration": ["iPaaS (Integration Platform as a Service)", "Hybrid integration", "API-first architecture", "Composable applications"],
+            "certifications_recommended": [{"cert": "Dell Boomi Certified Advanced Developer", "reason": "Valued for specialist roles", "url": "dell.com/boomi"}],
+            "quick_wins": ["Master Boomi EDI module", "Learn API Gateway patterns"],
+            "career_advice": f"With {profile.get('experience_years',3)} years Boomi experience, focus on MuleSoft or Talend to expand marketability in enterprise integration."
         }
