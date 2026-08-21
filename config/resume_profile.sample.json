@@ -1,67 +1,68 @@
 {
   "_note": "This is a SAMPLE profile. Replace by running: python main.py --parse-resume /path/to/your_resume.pdf",
   "personal": {
-    "name": "Rahul Sharma",
-    "email": "rahul@example.com",
+    "name": "Akshay Patil",
+    "email": "akshay@example.com",
     "phone": "+91-9876543210",
-    "location": "Nashik, Maharashtra, India",
-    "linkedin": "linkedin.com/in/rahulsharma-qa",
-    "github": "github.com/rahulsharma-qa"
+    "location": "India",
+    "linkedin": "linkedin.com/in/akshaypatil-boomi",
+    "github": "github.com/akshaypatil-dev"
   },
-  "summary": "QA Automation Engineer with 4+ years of experience building robust test frameworks using Selenium, Playwright, and Cypress. Expertise in API testing, CI/CD integration, and agile methodologies.",
-  "experience_years": 4,
+  "summary": "Boomi Integration Developer with 3+ years of experience building scalable integration solutions using Dell Boomi platform. Expertise in API integrations, EDI, data transformation, and cloud-based process automation. Strong background in B2B integrations and enterprise application integration (EAI).",
+  "experience_years": 3,
   "current_level": "mid",
   "job_titles": [
-    "QA Automation Engineer",
-    "Software Test Engineer",
-    "SDET"
+    "Boomi Developer",
+    "Boomi Integration Developer",
+    "Integration Developer",
+    "Boomi Cloud Developer"
   ],
   "tech_skills": {
-    "test_frameworks": ["Selenium WebDriver", "Playwright", "TestNG", "PyTest", "Appium"],
-    "programming_languages": ["Python", "Java", "JavaScript"],
-    "api_testing": ["Postman", "RestAssured", "SoapUI"],
-    "performance_testing": ["JMeter"],
+    "boomi_specific": ["Dell Boomi AtomSphere", "Boomi Process Flows", "Boomi Connectors", "Boomi API Management", "Boomi EDI", "Boomi Data Transformation"],
+    "integration_tools": ["Dell Boomi", "MuleSoft", "Talend", "Apache Camel"],
+    "programming_languages": ["Java", "Python", "JavaScript", "Groovy"],
+    "api_protocols": ["REST", "SOAP", "GraphQL", "EDI"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+    "cloud_platforms": ["AWS", "Azure", "Google Cloud", "Boomi Cloud"],
+    "version_control": ["Git", "GitHub", "GitLab"],
     "ci_cd": ["Jenkins", "GitHub Actions", "GitLab CI"],
-    "cloud": ["AWS (basic)", "Docker"],
-    "databases": ["MySQL", "PostgreSQL"],
-    "version_control": ["Git", "GitHub"],
-    "project_management": ["JIRA", "TestRail", "Confluence"],
-    "mobile_testing": ["Appium"],
-    "other": ["BDD/Cucumber", "Page Object Model", "Allure Reports"]
+    "project_management": ["JIRA", "Confluence", "Azure DevOps"],
+    "other": ["JSON/XML transformation", "B2B integrations", "API Gateway", "Enterprise Integration Patterns"]
   },
-  "soft_skills": ["Communication", "Team collaboration", "Problem solving", "Mentoring"],
+  "soft_skills": ["Communication", "Problem solving", "Team collaboration", "Attention to detail", "Technical documentation"],
   "work_experience": [
     {
-      "company": "TechCorp India",
-      "title": "QA Automation Engineer",
+      "company": "Tech Integration Corp",
+      "title": "Boomi Integration Developer",
       "duration": "Jan 2022 - Present",
-      "years": 2.5,
-      "description": "Built Selenium+Python automation framework from scratch. Achieved 70% test coverage. Reduced regression time from 8 hours to 45 minutes.",
-      "technologies": ["Selenium", "Python", "Jenkins", "JIRA"]
+      "years": 2,
+      "description": "Designed and implemented 50+ integration processes using Dell Boomi. Managed API integrations with third-party systems. Achieved 99.9% uptime for critical integrations.",
+      "technologies": ["Boomi", "REST APIs", "XML/JSON", "AWS"]
     },
     {
-      "company": "Startup XYZ",
-      "title": "Software Test Engineer",
+      "company": "Digital Solutions Ltd",
+      "title": "Integration Developer",
       "duration": "Jul 2020 - Dec 2021",
       "years": 1.5,
-      "description": "Manual and automated testing for web and mobile applications. API testing using Postman.",
-      "technologies": ["Postman", "Appium", "TestNG", "Java"]
+      "description": "Developed integration solutions for B2B operations. Worked on EDI processes and data transformation pipelines.",
+      "technologies": ["Boomi", "EDI", "Data Transformation", "Groovy"]
     }
   ],
   "education": [
     {
       "degree": "B.Tech Computer Science",
-      "institution": "XYZ University, Maharashtra",
+      "institution": "XYZ University",
       "year": 2020
     }
   ],
-  "certifications": ["ISTQB Foundation Level"],
-  "domains_tested": ["E-commerce", "Fintech", "Healthcare"],
-  "methodologies": ["Agile", "Scrum", "BDD", "TDD"],
-  "languages_spoken": ["English", "Hindi", "Marathi"],
+  "certifications": ["Dell Boomi Certified Specialist"],
+  "domains_integrated": ["Healthcare", "E-commerce", "Manufacturing", "Financial Services"],
+  "methodologies": ["Agile", "Scrum", "DevOps"],
+  "languages_spoken": ["English", "Hindi"],
   "achievements": [
-    "Reduced regression test execution time by 70%",
-    "Built automation framework from scratch covering 500+ test cases",
-    "Mentored 2 junior QA engineers"
+    "Successfully implemented 50+ Boomi integration processes",
+    "Reduced integration deployment time by 60%",
+    "Led migration of legacy systems to Boomi cloud platform",
+    "Mentored 2 junior integration developers"
   ]
 }
