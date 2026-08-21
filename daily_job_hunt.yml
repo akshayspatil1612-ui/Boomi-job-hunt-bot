@@ -1,116 +1,131 @@
-steps:
-  - name: 📥 Checkout repository
-    uses: actions/checkout@v5
-    with:
-      token: ${{ secrets.GITHUB_TOKEN }}
-      fetch-depth: 0
+name: 🤖 Daily QA Job Hunt
 
-  - name: 🐍 Setup Python 3.11
-    uses: actions/setup-python@v7
-    with:
-      python-version: '3.11'
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 9:00 AM IST daily
+  workflow_dispatch:
 
-  - name: 📦 Install Python packages
-    run: pip install -r requirements.txt
+permissions:
+  contents: write
 
-  - name: 🌐 Install Playwright Chromium
-    run: playwright install chromium --with-deps
+jobs:
+  job-hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
 
-  - name: ⚙️ Create config.json from secrets
-    run: |
-      mkdir -p config
-      cat > config/config.json << 'EOF'
-      {
-        "api_keys": {
-          "gemini_api_key": "${{ secrets.GEMINI_API_KEY }}",
-          "apify_api_key": ""
-        },
-        "email": {
-          "sender_email": "${{ secrets.GMAIL_ADDRESS }}",
-          "sender_app_password": "${{ secrets.GMAIL_APP_PASSWORD }}",
-          "recipient_email": "${{ secrets.GMAIL_ADDRESS }}",
-          "report_time_ist": "09:00"
-        },
-        "linkedin": {
-          "email": "${{ secrets.LINKEDIN_EMAIL }}",
-          "password": "${{ secrets.LINKEDIN_PASSWORD }}",
-          "auto_apply": false,
-          "max_apply_per_day": 0
-        },
-        "job_preferences": {
-          "role_titles": [
-            "QA Automation Engineer",
-            "Software Test Engineer",
-            "SDET",
-            "Test Automation Engineer",
-            "QA Engineer",
-            "Quality Assurance Engineer",
-            "Automation Test Lead",
-            "Senior QA Engineer"
-          ],
-          "experience_years": 5,
-          "min_match_score": 0,
-          "excluded_keywords": ["unpaid", "internship", "fresher only"],
-          "preferred_salary_usd_min": 30000
-        },
-        "search_settings": {
-          "max_jobs_per_source": 50,
-          "days_old_max": 3,
-          "dedup_window_days": 1
-        }
-      }
-      EOF
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-  - name: 📄 Create resume profile
-    run: |
-      mkdir -p config
-      echo '${{ secrets.RESUME_PROFILE_JSON }}' > config/resume_profile.json
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
 
-  - name: 📁 Create folders
-    run: mkdir -p logs data docs
+      - name: 📦 Install Python packages
+        run: pip install -r requirements.txt
 
-  - name: 🚀 Run Job Hunt Pipeline
-    run: python main.py
-    env:
-      PYTHONUNBUFFERED: 1
+      - name: 🌐 Install Playwright Chromium
+        run: playwright install chromium --with-deps
 
-  - name: 💾 Verify dashboard data
-    if: always()
-    run: |
-      echo "=== Checking docs folder ==="
-      ls -la docs/ || echo "docs folder empty"
-      if [ -f docs/jobs.json ]; then
-        SIZE=$(wc -c < docs/jobs.json)
-        JOBS=$(python3 -c "import json; d=json.load(open('docs/jobs.json')); print(d.get('total_matched',0))")
-        echo "✅ jobs.json: $SIZE bytes, $JOBS jobs"
-      else
-        echo "⚠️ jobs.json missing — creating placeholder"
-        mkdir -p docs
-        python3 -c "
-      import json, datetime
-      json.dump({'generated_at': datetime.datetime.now().isoformat(),'total_scraped':0,'total_matched':0,'jobs':[],'stats':{'excellent':0,'good':0,'india_remote':0,'sponsorship':0,'remote_worldwide':0}}, open('docs/jobs.json','w'))
-      print('placeholder created')
-      "
-      fi
+      - name: ⚙️ Create config.json from secrets
+        run: |
+          mkdir -p config
+          cat > config/config.json << 'EOF'
+          {
+            "api_keys": {
+              "gemini_api_key": "${{ secrets.GEMINI_API_KEY }}",
+              "apify_api_key": ""
+            },
+            "email": {
+              "sender_email": "${{ secrets.GMAIL_ADDRESS }}",
+              "sender_app_password": "${{ secrets.GMAIL_APP_PASSWORD }}",
+              "recipient_email": "${{ secrets.GMAIL_ADDRESS }}",
+              "report_time_ist": "09:00"
+            },
+            "linkedin": {
+              "email": "${{ secrets.LINKEDIN_EMAIL }}",
+              "password": "${{ secrets.LINKEDIN_PASSWORD }}",
+              "auto_apply": false,
+              "max_apply_per_day": 0
+            },
+            "job_preferences": {
+              "role_titles": [
+                "QA Automation Engineer",
+                "Software Test Engineer",
+                "SDET",
+                "Test Automation Engineer",
+                "QA Engineer",
+                "Quality Assurance Engineer",
+                "Automation Test Lead",
+                "Senior QA Engineer"
+              ],
+              "experience_years": 5,
+              "min_match_score": 0,
+              "excluded_keywords": ["unpaid", "internship", "fresher only"],
+              "preferred_salary_usd_min": 30000
+            },
+            "search_settings": {
+              "max_jobs_per_source": 50,
+              "days_old_max": 3,
+              "dedup_window_days": 1
+            }
+          }
+          EOF
 
-  - name: 📊 Upload report artifact
-    if: always()
-    uses: actions/upload-artifact@v5
-    with:
-      name: job-report-${{ github.run_number }}
-      path: logs/report_*.html
-      retention-days: 30
+      - name: 📄 Create resume profile
+        run: |
+          mkdir -p config
+          echo '${{ secrets.RESUME_PROFILE_JSON }}' > config/resume_profile.json
 
-  - name: 🌐 Push dashboard to GitHub
-    if: always()
-    run: |
-      git config user.name "QA Job Bot"
-      git config user.email "qa-bot@users.noreply.github.com"
-      git add -f docs/jobs.json
-      if git status --porcelain | grep -q "docs/jobs.json"; then
-        git commit -m "📊 Daily jobs $(date '+%Y-%m-%d') [skip ci]"
-        git push origin HEAD:main
-        echo "✅ Dashboard updated!"
-      else
-        echo "ℹ️ No changes"
-      fi
+      - name: 📁 Create folders
+        run: mkdir -p logs data docs
+
+      - name: 🚀 Run Job Hunt Pipeline
+        run: python main.py
+        env:
+          PYTHONUNBUFFERED: 1
+
+      - name: 💾 Verify dashboard data
+        if: always()
+        run: |
+          echo "=== Checking docs folder ==="
+          ls -la docs/ || echo "docs folder empty"
+          if [ -f docs/jobs.json ]; then
+            SIZE=$(wc -c < docs/jobs.json)
+            JOBS=$(python3 -c "import json; d=json.load(open('docs/jobs.json')); print(d.get('total_matched',0))")
+            echo "✅ jobs.json: $SIZE bytes, $JOBS jobs"
+          else
+            echo "⚠️ jobs.json missing — creating placeholder"
+            mkdir -p docs
+            python3 -c "
+          import json, datetime
+          json.dump({'generated_at': datetime.datetime.now().isoformat(),'total_scraped':0,'total_matched':0,'jobs':[],'stats':{'excellent':0,'good':0,'india_remote':0,'sponsorship':0,'remote_worldwide':0}}, open('docs/jobs.json','w'))
+          print('placeholder created')
+          "
+          fi
+
+      - name: 📊 Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: job-report-${{ github.run_number }}
+          path: logs/report_*.html
+          retention-days: 30
+
+      - name: 🌐 Push dashboard to GitHub
+        if: always()
+        run: |
+          git config user.name "QA Job Bot"
+          git config user.email "qa-bot@users.noreply.github.com"
+          git add -f docs/jobs.json
+          if git status --porcelain | grep -q "docs/jobs.json"; then
+            git commit -m "📊 Daily jobs $(date '+%Y-%m-%d') [skip ci]"
+            git push origin HEAD:main
+            echo "✅ Dashboard updated!"
+          else
+            echo "ℹ️ No changes"
+          fi
