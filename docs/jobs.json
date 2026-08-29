@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T21:21:10.546753",
-  "total_scraped": 207,
-  "total_matched": 205,
+  "generated_at": "2026-08-29T03:39:49.546549",
+  "total_scraped": 209,
+  "total_matched": 206,
   "jobs": [
     {
       "id": "quality-assurance-analyst-sdet-at-wissen-technology-4460370365",
@@ -12,7 +12,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.177264",
+      "scraped_at": "2026-08-29T03:35:40.004838",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -41,7 +41,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.292691",
+      "scraped_at": "2026-08-29T03:35:40.135399",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -70,7 +70,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.405614",
+      "scraped_at": "2026-08-29T03:35:40.259117",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -99,7 +99,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.520649",
+      "scraped_at": "2026-08-29T03:35:40.379224",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -128,36 +128,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.578862",
-      "description": "",
-      "type": "Outside India (Sponsorship)",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "staff-software-test-and-automation-engineer-at-mainspring-energy-4447979400",
-      "title": "Staff Software Test and Automation Engineer",
-      "company": "Mainspring Energy",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/staff-software-test-and-automation-engineer-at-mainspring-energy-4447979400",
-      "source": "linkedin",
-      "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-27",
-      "scraped_at": "2026-08-28T21:17:33.634212",
+      "scraped_at": "2026-08-29T03:35:40.446300",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -186,7 +157,36 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.688553",
+      "scraped_at": "2026-08-29T03:35:40.522464",
+      "description": "",
+      "type": "Outside India (Sponsorship)",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "sdet-engineer-at-bright-vision-technologies-4460398558",
+      "title": "SDET Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "Framingham, MA",
+      "url": "https://www.linkedin.com/jobs/view/sdet-engineer-at-bright-vision-technologies-4460398558",
+      "source": "linkedin",
+      "category": "sponsorship_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:35:40.587084",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -215,36 +215,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:44.829174",
-      "description": "",
-      "type": "Outside India (Sponsorship)",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "experienced-system-test-engineer-ai-ml-at-arm-4458699370",
-      "title": "Experienced System Test Engineer (AI/ML)",
-      "company": "Arm",
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://uk.linkedin.com/jobs/view/experienced-system-test-engineer-ai-ml-at-arm-4458699370",
-      "source": "linkedin",
-      "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:44.888130",
+      "scraped_at": "2026-08-29T03:35:54.679212",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -273,7 +244,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:44.942622",
+      "scraped_at": "2026-08-29T03:35:54.742123",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -302,36 +273,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:44.998968",
-      "description": "",
-      "type": "Outside India (Sponsorship)",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "staff-qa-automation-engineer-at-tem-4460148817",
-      "title": "Staff QA Automation Engineer",
-      "company": "tem",
-      "location": "United Kingdom",
-      "url": "https://uk.linkedin.com/jobs/view/staff-qa-automation-engineer-at-tem-4460148817",
-      "source": "linkedin",
-      "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.163138",
+      "scraped_at": "2026-08-29T03:35:54.804027",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -360,7 +302,36 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.217330",
+      "scraped_at": "2026-08-29T03:35:54.994880",
+      "description": "",
+      "type": "Outside India (Sponsorship)",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "backend-test-automation-engineer-sdet-at-gravitas-recruitment-group-global-ltd-4458403214",
+      "title": "BackEnd Test Automation Engineer (SDET)",
+      "company": "Gravitas Recruitment Group (Global) Ltd",
+      "location": "Birmingham, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/backend-test-automation-engineer-sdet-at-gravitas-recruitment-group-global-ltd-4458403214",
+      "source": "linkedin",
+      "category": "sponsorship_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:35:55.242774",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -389,7 +360,36 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:55.945675",
+      "scraped_at": "2026-08-29T03:36:08.759876",
+      "description": "",
+      "type": "Outside India (Sponsorship)",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "softwareentwickler-schwerpunkt-testautomatisierung-m-w-d-at-eos-india-brand-office-4458958548",
+      "title": "Softwareentwickler Schwerpunkt Testautomatisierung (m/w/d)",
+      "company": "Eos India Brand Office",
+      "location": "Krailling, Bavaria, Germany",
+      "url": "https://de.linkedin.com/jobs/view/softwareentwickler-schwerpunkt-testautomatisierung-m-w-d-at-eos-india-brand-office-4458958548",
+      "source": "linkedin",
+      "category": "sponsorship_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:36:08.819852",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -418,7 +418,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.001534",
+      "scraped_at": "2026-08-29T03:36:08.877485",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -447,7 +447,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.056662",
+      "scraped_at": "2026-08-29T03:36:08.934819",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -476,7 +476,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.111022",
+      "scraped_at": "2026-08-29T03:36:08.993403",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -505,7 +505,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.220114",
+      "scraped_at": "2026-08-29T03:36:09.111383",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -535,8 +535,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.761830",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.077961",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -563,8 +563,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.766315",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.083313",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -591,8 +591,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.770262",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.087830",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -619,8 +619,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.774689",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.093385",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -647,8 +647,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.782161",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.101634",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -675,8 +675,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.785859",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.105943",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -703,8 +703,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.789732",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.110532",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -731,8 +731,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.793465",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.114488",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -759,8 +759,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.797046",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.118386",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -787,8 +787,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.800457",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.121998",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -815,8 +815,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.803954",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.127168",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -843,8 +843,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.807635",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.131026",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -871,8 +871,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.810983",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.134641",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -899,8 +899,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.817775",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.142252",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -927,8 +927,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.821338",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.146119",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -955,8 +955,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.824873",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.150193",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -983,8 +983,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.828208",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.153967",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1011,8 +1011,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.831670",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.158763",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1030,7 +1030,7 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "shine_200019",
+      "id": "shine_804603",
       "title": "Qa Automation Engineer",
       "company": "",
       "location": "India (Remote)",
@@ -1039,8 +1039,8 @@
       "source": "shine",
       "category": "india_remote",
       "type": "India Remote",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:32.934448",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:44.610305",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1058,7 +1058,7 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "shine_705318",
+      "id": "shine_369665",
       "title": "Mobile Automation Test Engineer (Appium) | 5PlusYrs  Pune Bangalore",
       "company": "",
       "location": "India (Remote)",
@@ -1067,8 +1067,36 @@
       "source": "shine",
       "category": "india_remote",
       "type": "India Remote",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:35.596061",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:46.843737",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "shine_231931",
+      "title": "Assistant Engineer",
+      "company": "",
+      "location": "India (Remote)",
+      "url": "https://www.shine.com/jobs/assistant-engineer/iquest-management-consultants-pvt-ltd/19494364",
+      "description": "Assistant Engineer at . Remote/WFH QA role in India.",
+      "source": "shine",
+      "category": "india_remote",
+      "type": "India Remote",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:51.126656",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1094,36 +1122,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:40.802991",
-      "description": "",
-      "type": "India Remote",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "software-quality-assurance-engineer-at-jobgether-4458932050",
-      "title": "Software Quality Assurance Engineer",
-      "company": "Jobgether",
-      "location": "India",
-      "url": "https://in.linkedin.com/jobs/view/software-quality-assurance-engineer-at-jobgether-4458932050",
-      "source": "linkedin",
-      "category": "india_remote",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:40.919166",
+      "scraped_at": "2026-08-29T03:36:53.978499",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -1152,7 +1151,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:40.974031",
+      "scraped_at": "2026-08-29T03:36:54.103990",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -1181,7 +1180,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:41.028576",
+      "scraped_at": "2026-08-29T03:36:54.165378",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -1202,15 +1201,15 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "quality-assurance-automation-engineer-at-acl-digital-4458930673",
-      "title": "Quality Assurance Automation Engineer",
-      "company": "ACL Digital",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-acl-digital-4458930673",
+      "id": "qa-engineer-remote-at-quik-hire-staffing-4460560850",
+      "title": "QA Engineer (Remote)",
+      "company": "Quik Hire Staffing",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/qa-engineer-remote-at-quik-hire-staffing-4460560850",
       "source": "linkedin",
       "category": "india_remote",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:41.256075",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:36:54.226634",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -1239,10 +1238,68 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:54.197139",
+      "scraped_at": "2026-08-29T03:37:08.020270",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "arbeitnow_director-credit-risk-london-351103",
+      "title": "Director, Credit Risk",
+      "company": "Airwallex",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/director-credit-risk-london-351103",
+      "description": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale. Proudly founded in Melbourne, we have a team of over 2,300 of the brightest and most innovative people in tech across 27 offices around the globe. Valued at US$11 billion and backed by world-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us. Attributes We Value We hire successful builders with founder-like energy who want real impact, accelerated learning, and true ownership. You bring strong role-related expertise and sharp thinking, and you’re motivated by our mission and operating principles . You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor. You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end-to-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next. About the team The Credit Risk team is part of Airwallex’s Second Line of Defence and helps the company grow responsibly as a global financial platform. We work at the intersection of credit, FX, and counterparty risk, partnering closely with Product, Sales, Operations, Treasury, Finance, Engineering, Compliance, and Legal to enable commercial growth while protecting Airwallex from financial loss and excessive risk exposure. This is a team for analytical, commercially minded risk leaders who are energized by building scalable frameworks and practical controls across a fast-moving, multi-currency global network. What you'll do As Director, Credit Risk, you will lead Airwallex's global second-line oversight of credit, FX, and counterparty risk. You will set the risk guardrails that allow the business to grow safely across merchant acquiring, charge cards, FX, treasury, settlement, and banking-partner activities. Reporting to the Senior Director, Financial Risk, you will own the global framework, risk appetite, limits, governance, and portfolio oversight for these risk areas. You will provide independent challenge to first-line decisions and act as a trusted advisor to senior leaders across the business. This role is based in London. Responsibilities Credit risk framework and risk appeti",
+      "source": "arbeitnow",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "sponsorship": false,
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:33:58.966112",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "arbeitnow_backend-qa-engineer-uk-147650",
+      "title": "Backend QA Engineer",
+      "company": "Jobgether",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-qa-engineer-uk-147650",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in United Kingdom. Take ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical. You’ll combine hands-on manual testing with automation to validate APIs, transaction lifecycles, data, and event-driven services. The role gives you the opportunity to uncover edge cases and risks beyond what is explicitly defined in specifications. You’ll work closely with engineers and other stakeholders to ensure robust releases and prevent critical issues from reaching production. Your work will span REST and gRPC APIs, relational databases, message queues, and distributed backend services. You’ll also contribute to automated regression coverage using Go and help continuously strengthen the testing approach. Working fully remotely within a global team, you’ll have meaningful ownership in a fast-growing technology environment. Accountabilities Analyze business requirements, functional specifications, and user stories to design comprehensive test cases, scenarios, and coverage strategies . Perform end-to-end testing of transaction lifecycles, including initiation, authorization, settlement, reconciliation, and related workflows. Proactively explore the platform to identify edge cases, unexpected behavior, risks, and gaps not covered by existing specifications. Validate data accuracy, integrity, and consistency across services using SQL queries against PostgreSQL and MySQL . Test REST and gRPC APIs using tools such as Postman, grpcurl, or equivalent solutions, validating requests, responses, error handling, and edge cases. Verify event-driven workflows across message brokers such as Kafka, RabbitMQ, and NATS , including retries, failures, ordering, and duplicate-message handling. Write, maintain, and extend automated regression tests in Go , collaborating with developers when additional test coverage or technical support is required. Log, prioritize, track, and manage defects in Jira , providing clear reproduction steps, payloads, logs, and relevant technical context. Execute regression testing following deployments and help ensure releases meet expected quality standards. Contribute to improving QA processes, automation coverage, and overall testing efficiency across the platform. Requirements: 4+ years of professional manual testing experience , with a strong focus on backend services, APIs, and distributed systems. Previous experience testing products in iGaming, fintech, payment gateways, banking, or another transaction-intensive domain . Strong proficiency in writing intermediate SQL queries for validating and investigating data in relational databases. Hands-on experience with API testing tools , particularly Postman, as well as test management platforms such as TestRail or Zephyr. Ability to read Go code and write or extend automated tests in Go; pr",
+      "source": "arbeitnow",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "sponsorship": false,
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:33:58.969506",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1270,8 +1327,8 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "sponsorship": false,
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:15:43.784357",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:00.174720",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1299,37 +1356,8 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "sponsorship": false,
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:15:43.785450",
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "arbeitnow_flight-test-engineer-onsite-test-coordinator-all-genders-berlin-469885",
-      "title": "Flight Test Engineer & Onsite Test Coordinator (all genders)",
-      "company": "Stark",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/flight-test-engineer-onsite-test-coordinator-all-genders-berlin-469885",
-      "description": "About Us STARK is a new kind of defence technology company, revolutionizing the way autonomous systems are deployed across multiple domains. We design, develop and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and cost-effective. This provides our operators with a decisive edge in highly contested environments. We’re focused on delivering deployable, high-performance systems. In a time of rising threats, STARK is bolstering the technological edge of NATO Allies and their Partners to deter aggression and defend Europe. About the team You will be working closely with the Flight Test Team and reporting to the Technical Director. Your mission As a Flight Test Engineer & Onsite Test Coordinator , you are the \"Conductor of the Flight Line.\" Depending on your seniority, you will be responsible for the end-to-end lifecycle of our flight test campaigns, from initial planning and hazard assessment to execution and deep-dive data analysis. Beyond the technical data, you serve as the primary Onsite Leader . You are the person who ensures testing priorities are crystal clear to everyone on the range. You manage the daily tempo, coordinate the crew, and ensure that every person, from pilots to software engineers, knows exactly which tests are being conducted and when. Your mission is to transform raw flight data into actionable insights while maintaining a high-tempo, disciplined, and safe testing environment. Responsibilities Onsite Test Coordination & Leadership Act as the Onsite Test Coordinator: Lead daily operations on the range, ensuring the team stays focused on the primary test objectives. Clarify Priorities: Maintain and communicate the \"Daily Flight Schedule,\" ensuring everyone knows the sequence of events and current testing priorities. Lead Briefings: Drive the morning \"Pre-Flight Brief\" and the evening \"Debrief,\" capturing critical feedback and setting goals for the following day. Resource Management: Coordinate the availability of airframes, ground support equipment, and personnel to maximize range time efficiency. Flight Execution & Safety Coordinate and execute UAV flight tests in compliance with regulatory requirements and STARK safety standards. Ensure all flight activities and anomalies are documented with high fidelity. Develop specific Flight Test Techniques (FTTs) and instrumentation requirements to capture critical performance metrics. Lead Flight Readiness Reviews (FRR) and contribute to safety review boards. Test Design & Data Analysis Develop comprehensive flight test plans, test cards, and rigorous flight test hazard assessments (FTHA). Process and analyze flight data using MATLAB or Python to validate system performance against requirements. Work closely with Ardupilot and PX4-based flight control systems to iterate on flight behavior and performance. Manage the configuration of flight test articles, ensuring all hardware and software versions are meticulously tracked. Qualifications Educati",
-      "source": "arbeitnow",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "sponsorship": false,
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:15:45.160320",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:00.175705",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1357,7 +1385,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-24T12:09:16+00:00",
-      "scraped_at": "2026-08-28T21:15:48.248023",
+      "scraped_at": "2026-08-29T03:34:03.769260",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1385,7 +1413,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-18T11:11:26+00:00",
-      "scraped_at": "2026-08-28T21:15:48.249287",
+      "scraped_at": "2026-08-29T03:34:03.770604",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1413,7 +1441,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-18T11:01:06+00:00",
-      "scraped_at": "2026-08-28T21:15:48.250052",
+      "scraped_at": "2026-08-29T03:34:03.771348",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1441,7 +1469,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-18T11:00:58+00:00",
-      "scraped_at": "2026-08-28T21:15:48.250736",
+      "scraped_at": "2026-08-29T03:34:03.772046",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1469,7 +1497,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-18T11:00:56+00:00",
-      "scraped_at": "2026-08-28T21:15:48.252975",
+      "scraped_at": "2026-08-29T03:34:03.772873",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1497,7 +1525,91 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-18T11:00:55+00:00",
-      "scraped_at": "2026-08-28T21:15:48.253697",
+      "scraped_at": "2026-08-29T03:34:03.773605",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151951",
+      "title": "Cyber-Security Operations Analyst III, Product AppSec",
+      "company": "Veeam Software",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151951-cyber-security-operations-analyst-iii-product-appsec",
+      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands. #LI-REMOTE #LI-JC2 About the Role We're looking for a Cyber-Security Operations Analyst to operate, monitor, and support secure software delivery infrastructure across cloud and platform engineering environments. You'll partner with Software Engineering, Security, Infrastructure, and Platform teams to strengthen CI/CD pipelines, automate deployment workflows, and enhance operational reliability. This role sits at the intersection of development velocity and security, helping modernize workflows and implement scalable DevSecOps practices that support enterprise software, cloud-native services, and AI-enabled products. Due to the fact that this position will deal with highly sensitive data and will support federal customers, we are only considering US citizens at this time. Security clearance is not required, but there is a slight chance it maybe requested in the future What You'll Do Operate and maintain CI/CD pipelines, build agents, and supporting infrastructure across development, staging, and pre-production environments Configure and integrate application security tooling, including logging, monitoring, alerting, and dashboard management Support SIEM operations including log onboarding, detection tuning, alert triage, and incident response Manage patching of CI/CD infrastructure, build agents, container base images, and platform dependencies Monitor health, availability, and performance of security tools and DevSecOps platform components Partner with IT and Engineering teams on CI/CD toolchain support, including upgrades, capacity planning, and access management Collaborate with engineering teams to triage issues, document workflows, and share operational knowledge Technologies You'll Work With CI/CD platforms: GitHub Actions, Azure DevOps, Jenkins, GitLab CI IaC tools: Terraform, Ansible, CloudFormation, or Pulumi Security tooling: Trivy, SAST, DAST, SCA, container scanning platforms Cloud providers: AWS, Azure, or GCP Containerization: Kubernetes, Docker, Helm Artifact management: JFrog Artifactory Scripting: Python, Bash, PowerShell SIEM and observability platforms What You'll Bring 5+ years of experience in DevOps, Platform Engineering, SRE, or a related technical role 3+ years of hands-on experience with security testing tools (SAST, DAST, SCA) Experience designing and maintaining CI/CD pipelines usin",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:25:36+00:00",
+      "scraped_at": "2026-08-29T03:34:03.775258",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151950",
+      "title": "QA Engineer",
+      "company": "Workwize",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151950-qa-engineer-4",
+      "description": "At Workwize, we’re helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries. With 50.000 users and 120.000 devices under management, we’re solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives. Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide. LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands! If you’re a QA Engineer with a passion for optimizing systems, working with cutting-edge integrations, and enhancing user experiences, Workwize could be the perfect fit for you! About the Role We’re looking for a skilled QA Engineer to enhance the quality of our established Workwize platform. Your mission will be to elevate system functionality, work closely with developers, and ensure robust integration testing. This role is perfect for someone eager to contribute to a high-quality, streamlined user experience. In this role, you'll also be responsible for writing automated end-to-end tests using Cypress and Playwright, supporting the team in maintaining existing features, and actively contributing to the development of new ones. You’ll help drive a \"shift-left\" approach, ensuring that quality is embedded early in the development process and championing best practices that foster a culture of testing and continuous improvement. Key Responsibilities Develop a Comprehensive QA Strategy: Create, document, and maintain a clear QA strategy that aligns with our operational goals and product roadmap. Promote a shift-left testing culture , ensuring quality considerations are embedded from the early stages of design and development. Collaborate with developers and product owners to ensure the strategy is well understood and consistently applied across all teams and codebases. Collaboration and Continuous Improvement: Work closely with developers throughout the SDLC to provide feedback on testability, code quality, and potential edge cases. Support the team in both maintaining existing features and ensuring high quality in the development of new features . Manage bugs, incidents, and root cause analysis efforts, while continuously improving quality practices and testing standards. Testing and Automation: Design, implement, and maintain automated end-to-end and integration tests for our Laravel and React applications. Develop and manage API test suites to validate backend functionality, performance, and reliability. Leverage Cypress and Playwright to automate high-value test scenarios that reflect real-world user behavior. Continuously improve and scale our test automation infrastructure to accelerate development workflo",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:25:17+00:00",
+      "scraped_at": "2026-08-29T03:34:03.776735",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151943",
+      "title": "Manager, Finance Systems",
+      "company": "Dandy",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151943-manager-finance-systems",
+      "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients. About the Role Dandy is seeking a highly motivated and experienced Manager, Finance Systems to lead the strategy, implementation, and optimization of our core finance systems. The initial focus of this role will be on our NetSuite environment, with the scope expanding over time to encompass additional systems supporting the Procure-to-Pay, Order to Cash and Record to Report processes. Reporting to the Head of Finance Systems, you will be a key leader in driving efficiency, automation, and scalability within our finance operations. You will be both hands-on with system configuration and process improvement, as well as effectively managing technical resources to deliver more complex technical solutions. This is a critical role for a functional and technically savvy individual who thrives in a fast-paced, dynamic startup environment. What You'll Do Build & Shape the Finance Systems Function: You will be a key leader in defining the structure and setting the vision for a high-performing Finance Systems function. You will help define roles, responsibilities, and growth paths within the team as it expands. Create Scalable Solutions: You’ll define, build, and optimize the processes, methodologies, and tools that will shape how we utilize Netsuite, and other Finance systems across the organization. This includes setting standards for system configuration, data management, integrations, and reporting. Implement Best Practices: Establish and enforce best practices for system configuration, data integrity, user management, security, testing, and deployment across all finance systems. You'll ensure that all finance systems are built with rigor and are scalable and maintainable in the long term. Manage Technical Resources: Effectively manage and guide technical resources (internal or external) responsible for delivering NetSuite SuiteScript development, API integrations, and other technical requirements for finance systems. Foster a Data-Driven Culture within Finance: Advocate for the use of data-driven insights within the Finance organization, leveraging system capabilities for reporting and analysis. Ensure that the Finance team has the data they need to drive accurate reporting, insightful analysis, and efficient decision-making. What We're Looking For Leadership Experience: 2+ years of experience managing or leading projects within finance systems, with a proven track record of delivering successful outcomes in a fast-paced, ",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:23:15+00:00",
+      "scraped_at": "2026-08-29T03:34:03.779813",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1525,7 +1637,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T12:44:15+00:00",
-      "scraped_at": "2026-08-28T21:15:48.255830",
+      "scraped_at": "2026-08-29T03:34:03.781977",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1553,7 +1665,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T12:43:42+00:00",
-      "scraped_at": "2026-08-28T21:15:48.257521",
+      "scraped_at": "2026-08-29T03:34:03.783654",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1581,7 +1693,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T12:18:29+00:00",
-      "scraped_at": "2026-08-28T21:15:48.261038",
+      "scraped_at": "2026-08-29T03:34:03.787309",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1609,7 +1721,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T12:17:53+00:00",
-      "scraped_at": "2026-08-28T21:15:48.264536",
+      "scraped_at": "2026-08-29T03:34:03.790926",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1637,7 +1749,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T05:10:11+00:00",
-      "scraped_at": "2026-08-28T21:15:48.269530",
+      "scraped_at": "2026-08-29T03:34:03.796103",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1665,7 +1777,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T05:05:11+00:00",
-      "scraped_at": "2026-08-28T21:15:48.271339",
+      "scraped_at": "2026-08-29T03:34:03.797954",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1693,7 +1805,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T17:01:21+00:00",
-      "scraped_at": "2026-08-28T21:15:48.275329",
+      "scraped_at": "2026-08-29T03:34:03.802118",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1721,7 +1833,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:48:12+00:00",
-      "scraped_at": "2026-08-28T21:15:48.278002",
+      "scraped_at": "2026-08-29T03:34:03.804919",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1749,7 +1861,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:14:53+00:00",
-      "scraped_at": "2026-08-28T21:15:48.279222",
+      "scraped_at": "2026-08-29T03:34:03.806252",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1777,7 +1889,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:14:33+00:00",
-      "scraped_at": "2026-08-28T21:15:48.281920",
+      "scraped_at": "2026-08-29T03:34:03.809316",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1805,7 +1917,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:14:14+00:00",
-      "scraped_at": "2026-08-28T21:15:48.282705",
+      "scraped_at": "2026-08-29T03:34:03.810158",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1833,7 +1945,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:07:56+00:00",
-      "scraped_at": "2026-08-28T21:15:48.284038",
+      "scraped_at": "2026-08-29T03:34:03.811427",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1861,7 +1973,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T15:59:37+00:00",
-      "scraped_at": "2026-08-28T21:15:48.285438",
+      "scraped_at": "2026-08-29T03:34:03.812969",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1889,7 +2001,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T11:07:22+00:00",
-      "scraped_at": "2026-08-28T21:15:48.288181",
+      "scraped_at": "2026-08-29T03:34:03.815780",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1917,7 +2029,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:51:07+00:00",
-      "scraped_at": "2026-08-28T21:15:48.289903",
+      "scraped_at": "2026-08-29T03:34:03.817551",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1945,7 +2057,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:28:29+00:00",
-      "scraped_at": "2026-08-28T21:15:48.302351",
+      "scraped_at": "2026-08-29T03:34:03.830632",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -1973,7 +2085,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:27:34+00:00",
-      "scraped_at": "2026-08-28T21:15:48.303200",
+      "scraped_at": "2026-08-29T03:34:03.831564",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2001,7 +2113,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:18:58+00:00",
-      "scraped_at": "2026-08-28T21:15:48.304526",
+      "scraped_at": "2026-08-29T03:34:03.832958",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2029,7 +2141,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:17:59+00:00",
-      "scraped_at": "2026-08-28T21:15:48.306156",
+      "scraped_at": "2026-08-29T03:34:03.834579",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2057,7 +2169,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T05:45:07+00:00",
-      "scraped_at": "2026-08-28T21:15:48.310418",
+      "scraped_at": "2026-08-29T03:34:03.839605",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2085,7 +2197,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T05:45:06+00:00",
-      "scraped_at": "2026-08-28T21:15:48.311758",
+      "scraped_at": "2026-08-29T03:34:03.840985",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2113,7 +2225,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T05:45:04+00:00",
-      "scraped_at": "2026-08-28T21:15:48.313242",
+      "scraped_at": "2026-08-29T03:34:03.842493",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2141,7 +2253,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T05:45:03+00:00",
-      "scraped_at": "2026-08-28T21:15:48.314601",
+      "scraped_at": "2026-08-29T03:34:03.843869",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2169,7 +2281,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T05:35:03+00:00",
-      "scraped_at": "2026-08-28T21:15:48.315965",
+      "scraped_at": "2026-08-29T03:34:03.845266",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2197,7 +2309,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:20:07+00:00",
-      "scraped_at": "2026-08-28T21:15:48.317545",
+      "scraped_at": "2026-08-29T03:34:03.846830",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2225,7 +2337,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:15:15+00:00",
-      "scraped_at": "2026-08-28T21:15:48.322559",
+      "scraped_at": "2026-08-29T03:34:03.851929",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2253,7 +2365,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:10:26+00:00",
-      "scraped_at": "2026-08-28T21:15:48.323916",
+      "scraped_at": "2026-08-29T03:34:03.853396",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2281,7 +2393,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:10:25+00:00",
-      "scraped_at": "2026-08-28T21:15:48.325359",
+      "scraped_at": "2026-08-29T03:34:03.854847",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2309,7 +2421,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:10:21+00:00",
-      "scraped_at": "2026-08-28T21:15:48.326749",
+      "scraped_at": "2026-08-29T03:34:03.856274",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2337,7 +2449,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:10:06+00:00",
-      "scraped_at": "2026-08-28T21:15:48.328480",
+      "scraped_at": "2026-08-29T03:34:03.858154",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2365,63 +2477,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-26T12:42:31+00:00",
-      "scraped_at": "2026-08-28T21:15:48.330437",
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "jobicy_151770",
-      "title": "ChatGPT Performance Engineer",
-      "company": "OpenAI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151770-chatgpt-performance-engineer",
-      "description": "About the Team We bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API. We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth. About the Role OpenAI is looking for an experienced Performance Engineer to help us scale the performance, reliability, and efficiency of our systems. In this role, you'll apply deep technical expertise to optimize infrastructure and application-level performance across mission-critical products like ChatGPT and our developer API. You’ll work cross-functionally with teams building core services, training models, and developing real-time user experiences to push our latency, throughput, and cost-efficiency to the next level. We are looking for engineers who thrive in ambiguous environments, value deep systems understanding, and are motivated by delivering measurable impact. This is a highly technical, individual contributor role focused on root-cause analysis, profiling, instrumentation, and architecture-level performance improvements across our stack. In this role, you will: Analyze and optimize performance across application, middleware, runtime, and infrastructure layers—networking, storage, Python runtime, GPU utilization, and beyond. Develop tooling and metrics that provide deep observability into system performance. Collaborate closely with infra, platform, training, and product teams to identify key performance goals and drive systemic improvements. Influence architecture and design decisions to prioritize latency, throughput, and efficiency at scale. Lead investigations into high-impact performance regressions or scalability issues in production. Drive performance testing strategies and help define SLAs/SLOs around latency and throughput for critical systems. You might thrive in this role if you: Have 7+ years of experience in software engineering with a strong track record in performance or reliability of high-scale distributed systems. Are deeply comfortable with performance profiling tools and tracing systems. Have experience optimizing performance across one or more layers of the stack (e.g., database, networking, storage, application runtime, GC tuning, Python/Golang internals, GPU utilization). Have a strong understanding of OS internals, scheduling, memory management, and IO patterns. Have contributed to observability, benchmarking, or performance-focused infrastructure at scale. Have demonstrated success navigating ambiguity and aligning stakeholders around performance goals. Value simplicity, rigor, and collaboration when solving complex systems problems. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an",
-      "source": "jobicy",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "date_posted": "2026-08-26T12:39:40+00:00",
-      "scraped_at": "2026-08-28T21:15:48.333751",
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "jobicy_151769",
-      "title": "Sr HR Systems & Data Analyst II",
-      "company": "Consensys",
-      "location": "LATAM,  Canada,  USA",
-      "url": "https://jobicy.com/jobs/151769-sr-hr-systems-data-analyst-ii",
-      "description": "Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Consensys is the leading blockchain and web3 software company. Founded by Joe Lubin, CEO of Consensys and Co-Founder of Ethereum in 2014, Consensys has been at the forefront of innovation, pioneering technological developments within the web3 ecosystem. The financial system is being rebuilt on open, programmable infrastructure, and Consensys is helping power that transition. From MetaMask, the platform trusted by tens of millions of users worldwide, to Linea, the only 100% proven zkEVM rollup and an emerging home for institutional ETH capital, Consensys builds products and infrastructure that enable users, developers, and institutions to participate in the next generation of the internet. Our mission is to unlock the collaborative power of communities by making the decentralized web universally easy to access, use, and build on. Joining Consensys means working with a fully remote, globally distributed team of technologists, designers, cryptographers, product thinkers, and researchers who are building the next layer of the internet. You'll be exposed to new ideas, emerging technologies, and complex challenges that push you to stay at the top of your game while helping scale products and infrastructure used by tens of millions of users and thousands of developers across the web3 ecosystem. You'll join a network of builders that reaches the edge of our ecosystem. Consensys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies. About PODS Team People and Talent support the members of our Consensys community. We strive to be the destination employer of choice for our ecosystem. That goal is embedded in all the work we do to attract, retain and support our incredible talent. PODS — People Operations, Data & Systems — is the infrastructure layer behind everything our People team does — the systems, data, and operational processes that make it possible to hire, pay, onboard, develop, and support people at scale. When this function works well, it's invisible. When it doesn't, everyone notices. We're looking for someone to take ownership of our core People systems. In this role, you will be the primary subject matter expert on ADP Workforce Now and the broader HR technology ecosystem, the person Finance calls when People data doesn't match, the person Legal calls when they need audit evidence, and the person the People & Talent team relies on for system builds, enhancements, and troubleshooting. What you’ll do HRIS administration and system integrity You are the technical owner of ADP Workforce Now and the PODS technology ecosystem. System health, configuration, data integrity, and day-to-day administration are yours — not tasks you contribute to, but outcomes you own. Platform ownership — Manage day-to-day ADP WFN configuration, security roles, workflows, custom fields, and system health. You know wh",
-      "source": "jobicy",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "date_posted": "2026-08-26T12:39:22+00:00",
-      "scraped_at": "2026-08-28T21:15:48.335542",
+      "scraped_at": "2026-08-29T03:34:03.860217",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2449,7 +2505,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-24T17:38:43+00:00",
-      "scraped_at": "2026-08-28T21:15:53.446120",
+      "scraped_at": "2026-08-29T03:34:08.311308",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2477,7 +2533,91 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-14T04:45:02+00:00",
-      "scraped_at": "2026-08-28T21:15:55.241430",
+      "scraped_at": "2026-08-29T03:34:09.791108",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151960",
+      "title": "Growth Marketing Manager",
+      "company": "Keyfactor, Inc.",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/151960-growth-marketing-manager-3",
+      "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care deeply about the work and each other. We move fast, think big, and show up for one another every day. If you're looking for work that matters and a team that brings out your best, we hope you'll trust your future with Keyfactor! Title: Growth Marketing Manager Location: United States; Remote, CST/EST or Canada Experience: Mid-Level Job Function: Marketing Employment Type: Full-time Industry: Computer & Network Security About the position The Growth Marketing Manager will be responsible for driving ARR through two motions; enterprise named account campaign execution and product-led growth (PLG) via Keyfactor’s Test Drive program. This role owns demand generation programs end-to-end — planning, execution, optimization, and reporting — working closely with Brand, Product Marketing, Performance Marketing, Marketing Operations, Field Marketing, SDR, and Sales. The ideal candidate brings B2B enterprise demand generation expertise alongside PLG experience, deep analytical rigor, and a hands-on approach to integrating AI and automation into modern marketing workflows. Applicants must be legally authorized to work in the United States or Canada. Responsibilities Build and scale the PLG growth motion around Keyfactor's Test Drive program, building systematic growth loops driving user acquisition, activation, and conversion to pipeline• Design and deliver multi-channel marketing programs across digital channels to reach, engage and convert prospects within our Named Account Model at scale; leverage advanced segmentation and dynamic orchestration strategies Design and deliver multi-channel marketing programs across digital channels to reach, engage and convert prospects within our Named Account Model at scale; leverage advanced segmentation and dynamic orchestration strategies Partner with Field Marketing, SDR, and Sales to support ABM activations to engage priority accounts at scale with personalized programs. Analyze performance daily/weekly: produce insights on what’s working, what’s not, and actionable next steps. Maintain a living dashboard of KPIs tied to core engagement and funnel metrics, opportunity ARR and revenue Test, learn, and optimise continuously, running experiments to improve engagement rates, pipeline quality, and sales impact across channels Collaborate cross-functionally with Performance Marketing, Marketing Ops, Web, Content, Field, Customer, Brand, Product Marketing, SDR & Sales to ensure message-to-market fit, account and segment prioritization, friction-free hand-offs, and full-funnel alignment. Deploy AI and Automations that streamline the campaign operating process; ideation",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:59:52+00:00",
+      "scraped_at": "2026-08-29T03:34:13.141819",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151959",
+      "title": "Commerce Lifecycle Marketing Manager",
+      "company": "GoDaddy",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/151959-commerce-lifecycle-marketing-manager",
+      "description": "Location Details: Remote, Canada - British Columbia or Ontario At GoDaddy the future of work looks different for each team. Some teams work in the office full-time; others have a hybrid arrangement (they work remotely some days and in the office some days) and some work entirely remotely.​ This is a remote position, so you’ll be working remotely from your home. You may occasionally visit a GoDaddy office to meet with your team for events or meetings. What you'll get to do... Own lifecycle email campaigns end‑to‑end, setting strategy and acting as a thought partner to define objectives, target audiences, segmentation, and messaging Lead brief development, copywriting, and creative direction, and drive execution across build, QA, launch, and post‑campaign analysis for continuous optimization Build and deploy campaigns in SFMC, including data extensions, dynamic/ personalized content, and basic automations Use basic SQL to define, validate, suppress, and measure audiences, ensuring accurate targeting and measurement readiness Partner closely with Product, PMM/GTM, Design, Analytics, and Engineering to translate business goals into effective briefs, launches, performance insights, and an experimentation roadmap Your experience should include... 6+ years of experience in email/ lifecycle marketing, building campaigns from the ground up using a marketing automation platform (preferably Salesforce Marketing Cloud) for US audiences Proven end‑to‑end ownership from concept to launch (brief → copy/creative → build → QA → deploy), with strong project management and stakeholder communication skills Strong copywriting, creative direction, and lifecycle marketing strategy mindset to deliver high‑quality, high‑performing email campaigns Working knowledge of SQL for audience selection and validation (joins, aggregations, suppression, data QA) Analytical and experiment‑minded, with the ability to define success metrics, interpret results (conversion, revenue, retention, CTR, deliverability), and turn insights into clear actions You might also have... Experience in MessageGears Experience in the payment processing or e-commerce industry We've got your back... We offer a range of total rewards that may include paid time off, retirement savings (e.g., 401k, pension schemes), bonus/incentive eligibility, equity grants, participation in our employee stock purchase plan, competitive health benefits, and other family-friendly benefits including parental leave. GoDaddy’s benefits vary based on individual role and location and can be reviewed in more detail during the interview process. We also embrace our diverse culture and offer a range of Employee Resource Groups ( Culture ). Have a side hustle? No problem. We love entrepreneurs! Most importantly, come as you are and make your own way. We encourage you to apply even if your experience or skillset doesn’t align perfectly with every requirement. We value a wide range of backgrounds and transferable skills, and we are ex",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:59:34+00:00",
+      "scraped_at": "2026-08-29T03:34:13.143277",
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151946",
+      "title": "Customer Success Engineer with German",
+      "company": "Veeam Software",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/151946-customer-success-engineer-with-german",
+      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands. About the Role The ideal candidate will be naturally collaborative, articulate, extremely organized, have a solid technical understanding of Veeam products, and motivated by maximizing customer success and outcomes. Soft skills combined with technical skills are key in this role. As a Customer Success Engineer, you are the primary technical owner driving long-term customer outcomes across the Veeam Data Platform. You’ll lead onboarding, adoption, and optimization; proactively identify churn risk, migrations, and upsell opportunities; and apply deep disaster recovery and resilience (DR&R) expertise to conduct recovery simulations, DRMM assessments, and quarterly resilience reporting for measurable customer value What You’ll Do Configure customer accounts; customize backup policies and storage; facilitate onboarding; orient stakeholders; walk through admin portals; introduce support channels. Identify migration opportunities; analyze usage and environment; conduct success planning and strategy sessions; align business outcomes with product adoption. Conduct assessments; build protection plans; recommend software products and architectures across the Veeam Data Platform. Run recovery simulations; apply the Veeam Data Resilience Maturity Model (DRMM) to track and report resilience posture; deliver quarterly resilience reports. Monitor signals to detect churn risk early; define mitigation plans; partner on renewal strategy with actionable technical insights. Build business cases; define TCO; articulate value propositions for expansion; schedule checkpoint reviews with stakeholders. Engage CISO/CIO stakeholders with clear risk, status, and opportunity updates; support context for executive discussions and roadmap alignment. Collaborate on marketing-informed campaigns and plays to drive adoption and expansion. Operate with a long-term account assignment model tied to ARR and growth potential, typically covering 5–50 Enterprise and Commercial-Named accounts with $100K+ ARR. Own the technical success plan and adoption roadmap; influence pricing, commercial terms, and renewal terms in partnership with Sales and CS leadership What You’ll Bring 5+ years in customer-facing engineering roles focused on data backup and recovery (e.g., Technical Consulting, Pre-Sales SE, Technical Account Manager); this is a mid-level role. ",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:24:10+00:00",
+      "scraped_at": "2026-08-29T03:34:13.145815",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2505,7 +2645,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T11:57:00+00:00",
-      "scraped_at": "2026-08-28T21:15:59.151119",
+      "scraped_at": "2026-08-29T03:34:13.151892",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2533,7 +2673,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T05:11:53+00:00",
-      "scraped_at": "2026-08-28T21:15:59.151700",
+      "scraped_at": "2026-08-29T03:34:13.152458",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2561,7 +2701,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T05:10:05+00:00",
-      "scraped_at": "2026-08-28T21:15:59.153488",
+      "scraped_at": "2026-08-29T03:34:13.154477",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2589,7 +2729,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T18:01:48+00:00",
-      "scraped_at": "2026-08-28T21:15:59.157409",
+      "scraped_at": "2026-08-29T03:34:13.158508",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2617,7 +2757,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:48:28+00:00",
-      "scraped_at": "2026-08-28T21:15:59.160837",
+      "scraped_at": "2026-08-29T03:34:13.162772",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2645,7 +2785,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:33:40+00:00",
-      "scraped_at": "2026-08-28T21:15:59.164575",
+      "scraped_at": "2026-08-29T03:34:13.166822",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2673,7 +2813,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:19:12+00:00",
-      "scraped_at": "2026-08-28T21:15:59.166625",
+      "scraped_at": "2026-08-29T03:34:13.169028",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2701,7 +2841,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:18:39+00:00",
-      "scraped_at": "2026-08-28T21:15:59.168345",
+      "scraped_at": "2026-08-29T03:34:13.170933",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2729,7 +2869,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:18:02+00:00",
-      "scraped_at": "2026-08-28T21:15:59.170349",
+      "scraped_at": "2026-08-29T03:34:13.173160",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2757,7 +2897,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:12:23+00:00",
-      "scraped_at": "2026-08-28T21:15:59.171823",
+      "scraped_at": "2026-08-29T03:34:13.174815",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2785,7 +2925,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:11:54+00:00",
-      "scraped_at": "2026-08-28T21:15:59.174219",
+      "scraped_at": "2026-08-29T03:34:13.177340",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2813,7 +2953,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:07:02+00:00",
-      "scraped_at": "2026-08-28T21:15:59.176519",
+      "scraped_at": "2026-08-29T03:34:13.179823",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2841,7 +2981,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:06:27+00:00",
-      "scraped_at": "2026-08-28T21:15:59.177839",
+      "scraped_at": "2026-08-29T03:34:13.181163",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2869,7 +3009,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:00:31+00:00",
-      "scraped_at": "2026-08-28T21:15:59.179752",
+      "scraped_at": "2026-08-29T03:34:13.183195",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2897,7 +3037,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T11:06:26+00:00",
-      "scraped_at": "2026-08-28T21:15:59.180568",
+      "scraped_at": "2026-08-29T03:34:13.184026",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2925,7 +3065,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:51:40+00:00",
-      "scraped_at": "2026-08-28T21:15:59.181905",
+      "scraped_at": "2026-08-29T03:34:13.185424",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2953,7 +3093,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T09:42:38+00:00",
-      "scraped_at": "2026-08-28T21:15:59.187195",
+      "scraped_at": "2026-08-29T03:34:13.191514",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -2976,13 +3116,13 @@
       "company": "VirtuHire",
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-      "description": "Location: South Africa â Remote Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently within MediaPath's established strategy, workflows, and QA standards. This is a hands-on campaign execution role focused on campaign builds, trafficking, pacing, optimisation, troubleshooting, and maintenance. Key Responsibilities Build campaigns, line items, targeting structures, and campaign components within assigned DSPs. Traffic creative assets and third-party tags. Complete pre-launch campaign QA. Monitor campaign pacing and delivery on a daily basis. Identify and escalate pacing or delivery risks before they become client-visible. Execute routine optimisations and approved campaign changes within defined guidelines. Troubleshoot campaign, creative, targeting, and activation issues. Escalate complex technical issues to the Senior Programmatic Operations Lead. Maintain accurate campaign documentation, naming conventions, and change histories. Provide screenshots, compliance documentation, and campaign data when required. Support campaign closeout, reconciliation, and reporting processes. Work accurately across high volumes of campaigns and line items. Must-Have Requirements 2â4 years of hands-on digital or programmatic campaign execution experience. Direct experience building and managing campaigns within at least one major DSP. Ability to learn and work across additional platforms quickly. Strong attention to detail. Comfortable with repetitive, high-volume campaign production where accuracy is critical. Strong Excel and Google Sheets skills. Comfortable working from insertion orders, build sheets, and campaign specifications. Strong written communication. Disciplined escalation and issue-management skills. Preferred Experience Experience with one or more of: DV360 Basis Simpli.fi Amazon DSP Meta YouTube VAST and ad-server tags PMP deals Verification tools CTV/OTT Online video Agency or managed-service campaign operations Success in the Role Campaigns are built correctly the first time. Campaigns meet agreed launch SLAs. Pacing and delivery issues are identified early. Routine changes are completed quickly and accurately. Campaign documentation remains clean and up to date. QA and escalation procedures are consistently followed. The wider programmatic team can rely on accurate, consistent execution. Please mention the word **GLORIOUS** and tag RNjguMjIwLjYyLjI0Nw== when applying to show you read the job post completely (#RNjguMjIwLjYyLjI0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Location: South Africa â Remote Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently within MediaPath's established strategy, workflows, and QA standards. This is a hands-on campaign execution role focused on campaign builds, trafficking, pacing, optimisation, troubleshooting, and maintenance. Key Responsibilities Build campaigns, line items, targeting structures, and campaign components within assigned DSPs. Traffic creative assets and third-party tags. Complete pre-launch campaign QA. Monitor campaign pacing and delivery on a daily basis. Identify and escalate pacing or delivery risks before they become client-visible. Execute routine optimisations and approved campaign changes within defined guidelines. Troubleshoot campaign, creative, targeting, and activation issues. Escalate complex technical issues to the Senior Programmatic Operations Lead. Maintain accurate campaign documentation, naming conventions, and change histories. Provide screenshots, compliance documentation, and campaign data when required. Support campaign closeout, reconciliation, and reporting processes. Work accurately across high volumes of campaigns and line items. Must-Have Requirements 2â4 years of hands-on digital or programmatic campaign execution experience. Direct experience building and managing campaigns within at least one major DSP. Ability to learn and work across additional platforms quickly. Strong attention to detail. Comfortable with repetitive, high-volume campaign production where accuracy is critical. Strong Excel and Google Sheets skills. Comfortable working from insertion orders, build sheets, and campaign specifications. Strong written communication. Disciplined escalation and issue-management skills. Preferred Experience Experience with one or more of: DV360 Basis Simpli.fi Amazon DSP Meta YouTube VAST and ad-server tags PMP deals Verification tools CTV/OTT Online video Agency or managed-service campaign operations Success in the Role Campaigns are built correctly the first time. Campaigns meet agreed launch SLAs. Pacing and delivery issues are identified early. Routine changes are completed quickly and accurately. Campaign documentation remains clean and up to date. QA and escalation procedures are consistently followed. The wider programmatic team can rely on accurate, consistent execution. Please mention the word **GLORIOUS** and tag RMTcyLjIxNC4xMDQuNDg= when applying to show you read the job post completely (#RMTcyLjIxNC4xMDQuNDg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "source": "remoteok",
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": "2026-08-27T16:00:04+00:00",
-      "scraped_at": "2026-08-28T21:16:01.159305",
+      "scraped_at": "2026-08-29T03:34:14.667806",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3005,13 +3145,13 @@
       "company": "Kruger NearShore LLC - Rekluti",
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarrollar servicios y APIs REST utilizando principalmente Python y Go. Construir y mantener interfaces web modernas con Angular . Participar en el diseÃ±o de arquitecturas y definiciÃ³n de soluciones tÃ©cnicas. Integrar servicios, APIs y diferentes componentes de la plataforma. Desarrollar cÃ³digo limpio, mantenible, escalable y de alta calidad. Participar en revisiones de cÃ³digo, testing y resoluciÃ³n de incidencias. Colaborar con equipos de Producto, QA, DevOps y otros perfiles tÃ©cnicos. Contribuir a la mejora continua de procesos y buenas prÃ¡cticas de desarrollo. Trabajar con servicios cloud y ambientes desplegados sobre Google Cloud Platform (GCP) . Participar eventualmente en iniciativas de desarrollo mobile utilizando Flutter . ð» Requisitos 5+ aÃ±os de experiencia en desarrollo de software. Experiencia sÃ³lida como Full Stack Developer . Dominio avanzado de Python , especialmente para desarrollo backend. Experiencia sÃ³lida con Angular para desarrollo frontend. Experiencia profesional con Go (Golang) en desarrollo de servicios y aplicaciones. Experiencia construyendo APIs REST, microservicios e integraciones . Conocimientos de bases de datos SQL y/o NoSQL. Experiencia trabajando con Git y metodologÃ­as Ã¡giles. Conocimientos de GCP y servicios cloud . Nociones o experiencia previa con Flutter . Capacidad de anÃ¡lisis y resoluciÃ³n de problemas complejos. Buenas habilidades de comunicaciÃ³n y trabajo colaborativo. ð Condiciones de la posiciÃ³n Modalidad: 100% remoto. UbicaciÃ³n: LATAM. ContrataciÃ³n: Contractor. Pago: En USD. Idioma: ðªð¸ 100% en espaÃ±ol . No se requiere inglÃ©s para esta posiciÃ³n. Si eres un/a desarrollador/a Full Stack con experiencia en Python, Angular y Go y estÃ¡s buscando un nuevo reto profesional trabajando de forma remota desde LATAM, Â¡queremos conocerte! ð Please mention the word **ILLUMINATE** and tag RNjguMjIwLjYyLjI0Nw== when applying to show you read the job post completely (#RNjguMjIwLjYyLjI0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarrollar servicios y APIs REST utilizando principalmente Python y Go. Construir y mantener interfaces web modernas con Angular . Participar en el diseÃ±o de arquitecturas y definiciÃ³n de soluciones tÃ©cnicas. Integrar servicios, APIs y diferentes componentes de la plataforma. Desarrollar cÃ³digo limpio, mantenible, escalable y de alta calidad. Participar en revisiones de cÃ³digo, testing y resoluciÃ³n de incidencias. Colaborar con equipos de Producto, QA, DevOps y otros perfiles tÃ©cnicos. Contribuir a la mejora continua de procesos y buenas prÃ¡cticas de desarrollo. Trabajar con servicios cloud y ambientes desplegados sobre Google Cloud Platform (GCP) . Participar eventualmente en iniciativas de desarrollo mobile utilizando Flutter . ð» Requisitos 5+ aÃ±os de experiencia en desarrollo de software. Experiencia sÃ³lida como Full Stack Developer . Dominio avanzado de Python , especialmente para desarrollo backend. Experiencia sÃ³lida con Angular para desarrollo frontend. Experiencia profesional con Go (Golang) en desarrollo de servicios y aplicaciones. Experiencia construyendo APIs REST, microservicios e integraciones . Conocimientos de bases de datos SQL y/o NoSQL. Experiencia trabajando con Git y metodologÃ­as Ã¡giles. Conocimientos de GCP y servicios cloud . Nociones o experiencia previa con Flutter . Capacidad de anÃ¡lisis y resoluciÃ³n de problemas complejos. Buenas habilidades de comunicaciÃ³n y trabajo colaborativo. ð Condiciones de la posiciÃ³n Modalidad: 100% remoto. UbicaciÃ³n: LATAM. ContrataciÃ³n: Contractor. Pago: En USD. Idioma: ðªð¸ 100% en espaÃ±ol . No se requiere inglÃ©s para esta posiciÃ³n. Si eres un/a desarrollador/a Full Stack con experiencia en Python, Angular y Go y estÃ¡s buscando un nuevo reto profesional trabajando de forma remota desde LATAM, Â¡queremos conocerte! ð Please mention the word **ILLUMINATE** and tag RMTcyLjIxNC4xMDQuNDg= when applying to show you read the job post completely (#RMTcyLjIxNC4xMDQuNDg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "source": "remoteok",
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": "2026-08-22T00:00:12+00:00",
-      "scraped_at": "2026-08-28T21:16:01.219418",
+      "scraped_at": "2026-08-29T03:34:14.737724",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3034,13 +3174,13 @@
       "company": "Dart",
       "location": "George Town, ",
       "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "description": "JOB TITLE: PROJECT SYSTEMS SPECIALIST SALARY: CI$60,000 - CI$80,000 pa WORKING HOURS: 40 HOURS PER WEEK We are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system performance, and data-driven reporting to support project delivery and operational excellence. DO YOU HAVE: A Bachelorâs degree in a related field or equivalent experience At least 4 yearsâ experience in a similar systems or technical support role A minimum of 2 yearsâ hands-on experience with SSRS reporting Familiarity with Power BI, Crystal Reports, or similar BI tools Working knowledge of SQL, HTML, CSS, and JavaScript (C# is a plus) Experience supporting or administering project management systems such as PMWeb Strong analytical, problem-solving, and communication skills The ability to manage multiple tasks under pressure while maintaining attention to detail The ability to travel to project sites and perform occasional system inspections, including standing, walking, and lifting or carrying light equipment as required to fulfill the essential duties of the role WE WANT YOU TO: Provide day-to-day technical support for project management systems and users Monitor system performance and respond promptly to user queries and issues Assist in maintaining and improving system administration policies and procedures Collaborate with IT and technical teams to ensure system functionality and reliability Support reporting needs through SSRS, dashboards, and automated tools Help evaluate and improve information management processes across projects Contribute to QA/QC measures for data accuracy and system integrity Support multiple project teams, ensuring systems align with project goals and deadlines Compensation & Benefits At Dart, we're committed to creating a workplace where you thrive, offering a competitive salary and benefits designed for your well-being and growth. Our package includes 100% employer-paid medical insurance premium for the employee, employee and employer pension contributions, life insurance and long-term disability coverage (conditions apply), enhanced leave options including vacation, personal days, maternity, paternity, a wellness screening day and continuing professional development opportunities after successful completion of a six-month probationary period. DEADLINE: Midnight, Friday 11 September 2026. Please mention the word **MONUMENTALLY** and tag RNjguMjIwLjYyLjI0Nw== when applying to show you read the job post completely (#RNjguMjIwLjYyLjI0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "JOB TITLE: PROJECT SYSTEMS SPECIALIST SALARY: CI$60,000 - CI$80,000 pa WORKING HOURS: 40 HOURS PER WEEK We are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system performance, and data-driven reporting to support project delivery and operational excellence. DO YOU HAVE: A Bachelorâs degree in a related field or equivalent experience At least 4 yearsâ experience in a similar systems or technical support role A minimum of 2 yearsâ hands-on experience with SSRS reporting Familiarity with Power BI, Crystal Reports, or similar BI tools Working knowledge of SQL, HTML, CSS, and JavaScript (C# is a plus) Experience supporting or administering project management systems such as PMWeb Strong analytical, problem-solving, and communication skills The ability to manage multiple tasks under pressure while maintaining attention to detail The ability to travel to project sites and perform occasional system inspections, including standing, walking, and lifting or carrying light equipment as required to fulfill the essential duties of the role WE WANT YOU TO: Provide day-to-day technical support for project management systems and users Monitor system performance and respond promptly to user queries and issues Assist in maintaining and improving system administration policies and procedures Collaborate with IT and technical teams to ensure system functionality and reliability Support reporting needs through SSRS, dashboards, and automated tools Help evaluate and improve information management processes across projects Contribute to QA/QC measures for data accuracy and system integrity Support multiple project teams, ensuring systems align with project goals and deadlines Compensation & Benefits At Dart, we're committed to creating a workplace where you thrive, offering a competitive salary and benefits designed for your well-being and growth. Our package includes 100% employer-paid medical insurance premium for the employee, employee and employer pension contributions, life insurance and long-term disability coverage (conditions apply), enhanced leave options including vacation, personal days, maternity, paternity, a wellness screening day and continuing professional development opportunities after successful completion of a six-month probationary period. DEADLINE: Midnight, Friday 11 September 2026. Please mention the word **MONUMENTALLY** and tag RMTcyLjIxNC4xMDQuNDg= when applying to show you read the job post completely (#RMTcyLjIxNC4xMDQuNDg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "source": "remoteok",
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": "2026-08-21T14:53:06+00:00",
-      "scraped_at": "2026-08-28T21:16:01.224733",
+      "scraped_at": "2026-08-29T03:34:14.743000",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3069,7 +3209,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787885018,
-      "scraped_at": "2026-08-28T21:16:01.786800",
+      "scraped_at": "2026-08-29T03:34:15.011965",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3098,7 +3238,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787433890,
-      "scraped_at": "2026-08-28T21:16:01.788385",
+      "scraped_at": "2026-08-29T03:34:15.013568",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3127,7 +3267,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787015777,
-      "scraped_at": "2026-08-28T21:16:01.790368",
+      "scraped_at": "2026-08-29T03:34:15.015643",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3156,7 +3296,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787010604,
-      "scraped_at": "2026-08-28T21:16:01.792441",
+      "scraped_at": "2026-08-29T03:34:15.017824",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3185,7 +3325,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786725516,
-      "scraped_at": "2026-08-28T21:16:01.798144",
+      "scraped_at": "2026-08-29T03:34:15.024817",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3214,7 +3354,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786724435,
-      "scraped_at": "2026-08-28T21:16:01.799231",
+      "scraped_at": "2026-08-29T03:34:15.025770",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3243,7 +3383,7 @@
       "type": "Remote Worldwide",
       "salary": "120000 130000 USD",
       "date_posted": 1786721884,
-      "scraped_at": "2026-08-28T21:16:01.800125",
+      "scraped_at": "2026-08-29T03:34:15.026682",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3272,7 +3412,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786569772,
-      "scraped_at": "2026-08-28T21:16:01.800912",
+      "scraped_at": "2026-08-29T03:34:15.027608",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3301,7 +3441,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786568505,
-      "scraped_at": "2026-08-28T21:16:01.801709",
+      "scraped_at": "2026-08-29T03:34:15.028341",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3330,7 +3470,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786542570,
-      "scraped_at": "2026-08-28T21:16:01.802464",
+      "scraped_at": "2026-08-29T03:34:15.029110",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3359,7 +3499,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786060755,
-      "scraped_at": "2026-08-28T21:16:01.804324",
+      "scraped_at": "2026-08-29T03:34:15.031006",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3388,7 +3528,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1785783727,
-      "scraped_at": "2026-08-28T21:16:01.805567",
+      "scraped_at": "2026-08-29T03:34:15.032459",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3417,7 +3557,7 @@
       "type": "Remote Worldwide",
       "salary": "PLN",
       "date_posted": 1785769983,
-      "scraped_at": "2026-08-28T21:16:01.806765",
+      "scraped_at": "2026-08-29T03:34:15.033566",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3446,7 +3586,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787689868,
-      "scraped_at": "2026-08-28T21:16:04.372369",
+      "scraped_at": "2026-08-29T03:34:17.358602",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3475,7 +3615,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1783732516,
-      "scraped_at": "2026-08-28T21:16:05.660567",
+      "scraped_at": "2026-08-29T03:34:18.564996",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3504,7 +3644,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787862784,
-      "scraped_at": "2026-08-28T21:16:05.661480",
+      "scraped_at": "2026-08-29T03:34:18.565946",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3533,7 +3673,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1787517148,
-      "scraped_at": "2026-08-28T21:16:05.663351",
+      "scraped_at": "2026-08-29T03:34:18.567921",
       "match_score": 15,
       "match_reasons": [
         "Mid-level position matches your profile"
@@ -3551,15 +3691,15 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "test-automation-engineer-at-integral-federal-inc-4458919463",
+      "id": "test-automation-engineer-at-zof-ai-4460384437",
       "title": "Test Automation Engineer",
-      "company": "Integral Federal, Inc.",
-      "location": "Fort Meade, MD",
-      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-at-integral-federal-inc-4458919463",
+      "company": "Zof AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-at-zof-ai-4460384437",
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:24.789398",
+      "scraped_at": "2026-08-29T03:38:04.723851",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3588,7 +3728,7 @@
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:24.848926",
+      "scraped_at": "2026-08-29T03:38:04.787858",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3609,73 +3749,15 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "cleared-automated-test-engineer-at-bestgate-engineering-4458411124",
-      "title": "Cleared Automated Test Engineer",
-      "company": "Bestgate Engineering",
-      "location": "Annapolis Junction, MD",
-      "url": "https://www.linkedin.com/jobs/view/cleared-automated-test-engineer-at-bestgate-engineering-4458411124",
+      "id": "sdet-at-charles-schwab-4458409971",
+      "title": "SDET",
+      "company": "Charles Schwab",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/sdet-at-charles-schwab-4458409971",
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:24.907094",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "test-automation-engineer-with-security-clearance-at-integral-federal-inc-4460334778",
-      "title": "Test Automation Engineer with Security Clearance",
-      "company": "Integral Federal, Inc.",
-      "location": "Fort Meade, MD",
-      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-with-security-clearance-at-integral-federal-inc-4460334778",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:24.965222",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "automation-testing-engineer-at-cherokee-federal-4450086847",
-      "title": "Automation Testing Engineer",
-      "company": "Cherokee Federal",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/automation-testing-engineer-at-cherokee-federal-4450086847",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:25.132022",
+      "scraped_at": "2026-08-29T03:38:04.848182",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3704,7 +3786,7 @@
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:25.189771",
+      "scraped_at": "2026-08-29T03:38:04.909050",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3725,44 +3807,276 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "software-quality-assurance-qa-automation-engineer-at-peraton-4458696704",
-      "title": "Software Quality Assurance (QA) Automation Engineer",
-      "company": "Peraton",
-      "location": "Colorado Springs, CO",
-      "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-qa-automation-engineer-at-peraton-4458696704",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-27",
-      "scraped_at": "2026-08-28T21:19:25.247400",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "quality-assurance-automation-engineer-it-at-uline-4458989735",
-      "title": "Quality Assurance Automation Engineer - IT",
-      "company": "Uline",
-      "location": "Milwaukee, WI",
-      "url": "https://www.linkedin.com/jobs/view/quality-assurance-automation-engineer-it-at-uline-4458989735",
+      "id": "qa-automation-test-engineer-at-haystack-4460199275",
+      "title": "QA Automation Test Engineer",
+      "company": "Haystack",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/qa-automation-test-engineer-at-haystack-4460199275",
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:25.303962",
+      "scraped_at": "2026-08-29T03:38:04.967247",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "qe-automation-engineer-at-tata-consultancy-services-4459449143",
+      "title": "QE Automation Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/qe-automation-engineer-at-tata-consultancy-services-4459449143",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:05.023733",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "sdet-at-charles-schwab-4458410916",
+      "title": "SDET",
+      "company": "Charles Schwab",
+      "location": "Southlake, TX",
+      "url": "https://www.linkedin.com/jobs/view/sdet-at-charles-schwab-4458410916",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:05.083073",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "software-qa-engineer-at-autostore%E2%84%A2-4441105241",
+      "title": "Software QA Engineer",
+      "company": "AutoStore™",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-at-autostore%E2%84%A2-4441105241",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:05.263287",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "software-development-engineer-in-test-sdet-at-octave-technologies-corporation-4460519921",
+      "title": "Software Development Engineer in Test (SDET)",
+      "company": "Octave Technologies Corporation",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-octave-technologies-corporation-4460519921",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.432543",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "playwright-test-automation-engineer-at-aegistech-4460351835",
+      "title": "Playwright Test Automation Engineer",
+      "company": "Aegistech",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/playwright-test-automation-engineer-at-aegistech-4460351835",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.492008",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "staff-quality-assurance-engineer-at-arsenal-growth-equity-4459445096",
+      "title": "Staff Quality Assurance Engineer",
+      "company": "Arsenal Growth Equity",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/staff-quality-assurance-engineer-at-arsenal-growth-equity-4459445096",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.609763",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "staff-sdet-at-alkami-technology-4440585181",
+      "title": "Staff SDET",
+      "company": "Alkami Technology",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/staff-sdet-at-alkami-technology-4440585181",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.669901",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "test-automation-engineer-at-haystack-4460178583",
+      "title": "Test Automation Engineer",
+      "company": "Haystack",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-at-haystack-4460178583",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.911709",
+      "description": "",
+      "type": "Remote Worldwide",
+      "easy_apply": false,
+      "match_score": 15,
+      "match_reasons": [
+        "Mid-level position matches your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "qa-test-engineer-at-vmd-corp-4460367998",
+      "title": "QA Test Engineer",
+      "company": "VMD Corp",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/qa-test-engineer-at-vmd-corp-4460367998",
+      "source": "linkedin",
+      "category": "remote_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:30.434694",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3791,152 +4105,7 @@
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:37.881880",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "sr-associate-software-automation-engineer-at-mckesson-4460387020",
-      "title": "Sr. Associate, Software Automation Engineer",
-      "company": "McKesson",
-      "location": "Irving, TX",
-      "url": "https://www.linkedin.com/jobs/view/sr-associate-software-automation-engineer-at-mckesson-4460387020",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:37.937651",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "sdet-engineer-at-bright-vision-technologies-4460398558",
-      "title": "SDET Engineer",
-      "company": "Bright Vision Technologies",
-      "location": "Framingham, MA",
-      "url": "https://www.linkedin.com/jobs/view/sdet-engineer-at-bright-vision-technologies-4460398558",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:37.994187",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "quality-engineer-remote-at-premise-health-4448758087",
-      "title": "Quality Engineer - Remote",
-      "company": "Premise Health",
-      "location": "Brentwood, TN",
-      "url": "https://www.linkedin.com/jobs/view/quality-engineer-remote-at-premise-health-4448758087",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:38.161780",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "automation-tester-at-global-alliant-inc-4460123354",
-      "title": "Automation Tester",
-      "company": "Global Alliant Inc",
-      "location": "Rockville, MD",
-      "url": "https://www.linkedin.com/jobs/view/automation-tester-at-global-alliant-inc-4460123354",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-27",
-      "scraped_at": "2026-08-28T21:19:49.792361",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 15,
-      "match_reasons": [
-        "Mid-level position matches your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "automation-test-engineer-at-haystack-4460178585",
-      "title": "Automation Test Engineer",
-      "company": "Haystack",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/automation-test-engineer-at-haystack-4460178585",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:50.229334",
+      "scraped_at": "2026-08-29T03:38:30.634929",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -3965,7 +4134,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.236731",
+      "scraped_at": "2026-08-29T03:35:40.072967",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -3994,7 +4163,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.348309",
+      "scraped_at": "2026-08-29T03:35:40.198780",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4023,7 +4192,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:33.463138",
+      "scraped_at": "2026-08-29T03:35:40.317882",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4052,7 +4221,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.052415",
+      "scraped_at": "2026-08-29T03:35:54.870614",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4081,7 +4250,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.108276",
+      "scraped_at": "2026-08-29T03:35:54.931369",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4110,7 +4279,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.270928",
+      "scraped_at": "2026-08-29T03:35:55.058664",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4139,7 +4308,36 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:45.327542",
+      "scraped_at": "2026-08-29T03:35:55.119934",
+      "description": "",
+      "type": "Outside India (Sponsorship)",
+      "easy_apply": false,
+      "match_score": 0,
+      "match_reasons": [
+        "Boomi/Integration role matching your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "senior-test-automation-engineer-at-motorola-solutions-4422412219",
+      "title": "Senior Test Automation Engineer",
+      "company": "Motorola Solutions",
+      "location": "Uxbridge, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-motorola-solutions-4422412219",
+      "source": "linkedin",
+      "category": "sponsorship_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:35:55.181077",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4168,7 +4366,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:55.836623",
+      "scraped_at": "2026-08-29T03:36:08.582470",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4189,15 +4387,44 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "senior-qa-engineer-m-w-d-%E2%80%93-integration-test-automation-at-robert-walters-4458677783",
-      "title": "Senior QA Engineer (m/w/d) – Integration & Test Automation",
-      "company": "Robert Walters",
-      "location": "Hamburg, Hamburg, Germany",
-      "url": "https://de.linkedin.com/jobs/view/senior-qa-engineer-m-w-d-%E2%80%93-integration-test-automation-at-robert-walters-4458677783",
+      "id": "lead-qa-automation-engineer-bundesmessenger-m-w-d-at-bwi-gmbh-4460370395",
+      "title": "Lead QA Automation Engineer - BundesMessenger (m/w/d)",
+      "company": "BWI GmbH",
+      "location": "Leipzig, Saxony, Germany",
+      "url": "https://de.linkedin.com/jobs/view/lead-qa-automation-engineer-bundesmessenger-m-w-d-at-bwi-gmbh-4460370395",
       "source": "linkedin",
       "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-27",
-      "scraped_at": "2026-08-28T21:17:55.891006",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:36:08.642237",
+      "description": "",
+      "type": "Outside India (Sponsorship)",
+      "easy_apply": false,
+      "match_score": 0,
+      "match_reasons": [
+        "Boomi/Integration role matching your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "lead-qa-automation-engineer-bundesmessenger-m-w-d-at-bwi-gmbh-4460349933",
+      "title": "Lead QA Automation Engineer - BundesMessenger (m/w/d)",
+      "company": "BWI GmbH",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "url": "https://de.linkedin.com/jobs/view/lead-qa-automation-engineer-bundesmessenger-m-w-d-at-bwi-gmbh-4460349933",
+      "source": "linkedin",
+      "category": "sponsorship_worldwide",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:36:08.701648",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4226,65 +4453,7 @@
       "source": "linkedin",
       "category": "sponsorship_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.165442",
-      "description": "",
-      "type": "Outside India (Sponsorship)",
-      "easy_apply": false,
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "senior-software-test-engineer-m-w-d-manuel-automation-at-ingentis-4443695539",
-      "title": "Senior Software Test Engineer (m/w/d) (Manuel & Automation)",
-      "company": "Ingentis",
-      "location": "Nuremberg, Bavaria, Germany",
-      "url": "https://de.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-manuel-automation-at-ingentis-4443695539",
-      "source": "linkedin",
-      "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.273422",
-      "description": "",
-      "type": "Outside India (Sponsorship)",
-      "easy_apply": false,
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "senior-qa-engineer-w-m-d-mit-fokus-auf-mobile-testing-at-zasta-4458636126",
-      "title": "Senior QA Engineer (w/m/d) mit Fokus auf Mobile Testing",
-      "company": "Zasta",
-      "location": "Berlin, Germany",
-      "url": "https://de.linkedin.com/jobs/view/senior-qa-engineer-w-m-d-mit-fokus-auf-mobile-testing-at-zasta-4458636126",
-      "source": "linkedin",
-      "category": "sponsorship_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:17:56.327122",
+      "scraped_at": "2026-08-29T03:36:09.051978",
       "description": "",
       "type": "Outside India (Sponsorship)",
       "easy_apply": false,
@@ -4314,8 +4483,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.778607",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.097598",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4342,36 +4511,8 @@
       "source": "instahyre",
       "category": "india_remote",
       "type": "India Jobs",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:49.814438",
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "shine_399600",
-      "title": "Engineer or Junior Engineer  Sales & Marketing",
-      "company": "",
-      "location": "India (Remote)",
-      "url": "https://www.shine.com/jobs/engineer-or-junior-engineer-sales-marketing/prominent-consultant/19401090",
-      "description": "Engineer or Junior Engineer  Sales & Marketing at . Remote/WFH QA role in India.",
-      "source": "shine",
-      "category": "india_remote",
-      "type": "India Remote",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:16:42.206735",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:58.138470",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4397,7 +4538,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:40.744136",
+      "scraped_at": "2026-08-29T03:36:53.912840",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4426,7 +4567,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:40.860957",
+      "scraped_at": "2026-08-29T03:36:54.039777",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4455,7 +4596,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:41.085069",
+      "scraped_at": "2026-08-29T03:36:54.287371",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4484,7 +4625,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:41.143182",
+      "scraped_at": "2026-08-29T03:36:54.350610",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4513,7 +4654,36 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:41.199960",
+      "scraped_at": "2026-08-29T03:36:54.413568",
+      "description": "",
+      "type": "India Remote",
+      "easy_apply": false,
+      "match_score": 0,
+      "match_reasons": [
+        "Boomi/Integration role matching your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "lead-i-software-testing-ecommerce-automation-testing-at-ecommerce-guide-4460562032",
+      "title": "Lead I - Software Testing (Ecommerce & Automation Testing)",
+      "company": "Ecommerce Guide",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-i-software-testing-ecommerce-automation-testing-at-ecommerce-guide-4460562032",
+      "source": "linkedin",
+      "category": "india_remote",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:36:54.474943",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4542,7 +4712,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:18:54.251142",
+      "scraped_at": "2026-08-29T03:37:08.079367",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4571,7 +4741,7 @@
       "source": "linkedin",
       "category": "india_remote",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:06.315514",
+      "scraped_at": "2026-08-29T03:37:21.104754",
       "description": "",
       "type": "India Remote",
       "easy_apply": false,
@@ -4602,7 +4772,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-26T13:10:58",
-      "scraped_at": "2026-08-28T21:15:37.954294",
+      "scraped_at": "2026-08-29T03:33:54.405437",
       "salary": "",
       "match_score": 0,
       "match_reasons": [
@@ -4631,8 +4801,8 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "sponsorship": false,
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:15:42.647118",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:33:59.024369",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4660,8 +4830,8 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "sponsorship": false,
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:15:42.677945",
+      "date_posted": "2026-08-29",
+      "scraped_at": "2026-08-29T03:34:00.232382",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4689,7 +4859,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T11:59:25+00:00",
-      "scraped_at": "2026-08-28T21:15:48.266868",
+      "scraped_at": "2026-08-29T03:34:03.793379",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4717,7 +4887,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T06:25:02+00:00",
-      "scraped_at": "2026-08-28T21:15:48.268175",
+      "scraped_at": "2026-08-29T03:34:03.794728",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4745,7 +4915,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T17:01:57+00:00",
-      "scraped_at": "2026-08-28T21:15:48.273111",
+      "scraped_at": "2026-08-29T03:34:03.799754",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4773,7 +4943,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T11:16:23+00:00",
-      "scraped_at": "2026-08-28T21:15:48.286542",
+      "scraped_at": "2026-08-29T03:34:03.813993",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4801,7 +4971,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:32:53+00:00",
-      "scraped_at": "2026-08-28T21:15:48.293785",
+      "scraped_at": "2026-08-29T03:34:03.821588",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4829,7 +4999,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:31:55+00:00",
-      "scraped_at": "2026-08-28T21:15:48.296429",
+      "scraped_at": "2026-08-29T03:34:03.824365",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4857,7 +5027,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:31:38+00:00",
-      "scraped_at": "2026-08-28T21:15:48.300113",
+      "scraped_at": "2026-08-29T03:34:03.828262",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4885,7 +5055,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T09:43:13+00:00",
-      "scraped_at": "2026-08-28T21:15:48.307800",
+      "scraped_at": "2026-08-29T03:34:03.836284",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4913,7 +5083,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:20:06+00:00",
-      "scraped_at": "2026-08-28T21:15:48.319008",
+      "scraped_at": "2026-08-29T03:34:03.848375",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4941,35 +5111,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T04:20:04+00:00",
-      "scraped_at": "2026-08-28T21:15:48.321087",
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "jobicy_151776",
-      "title": "Senior Software Engineer (Backend)",
-      "company": "TeamSnap",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151776-senior-software-engineer-backend-2",
-      "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We empower our people to bring big ideas and tiny egos, landing us on Outside Magazine’s list of “ Best Places to Work\" and Built In’s “ 100 Best Remote-First Places to Work.\" TeamSnap is seeking a Senior Software Engineer (Backend) interested in working across the stack to join our fully distributed engineering team to help us continue our impressive growth from 2+ million daily active users to beyond! Our stack primarily includes Node.js, TypeScript, and SQL. As an engineering team, we design and build scalable systems using a service-oriented and event-driven architecture that serve millions of daily users and some of the largest youth and amateur sports organizations in the world. Our team values collaboration in a remote culture, so we regularly participate in pair sessions and virtual team swarms to stay connected and improve the team and company. What You'll Do: Develop engaging experiences for our millions of users across our mobile and web applications. Design and implement scalable apps and services, integrating these into an evolving unified product and system architecture. Brainstorm and evaluate new product features in collaboration with the product and UX team. Collaborate and pair with other developers to develop solutions and teach technical skills. Contribute to our development standards within the team and across engineering to ensure code quality, adherence to standards, and identify opportunities for improvement Champion and implement automated testing practices to uphold the dependability and stability of backend systems, while also taking ownership of the overall reliability of the team's services. Actively engage in on-call responsibilities and contribute to incident management efforts. Evaluate and test new technologies to help TeamSnap move faster or serve our users more effectively. Help teammates overcome obstacles, resolve blockers, and complete work tasks. What Will Set You Up for Success: 5+ years of relevant experience, leading large projects on high-scale, distributed software systems as a software engineer Proficient in backend development with Node, Python, Golang, Ruby or similar. Experience with direct usage of SQL and relational databases such as MySQL / GCP Cloud SQL along with migrations, profiling, and optimization of such databases. Hands-on experience developing APIs, services for mobile applications and web clients at scale. Successfully delivered complex projects including debugging problems that may span a number of systems. Experience working with and architecting APIs, event streams, webhooks , etc. Experience working within and towards a distributed system. Extra points if you’ve built servi",
-      "source": "jobicy",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "date_posted": "2026-08-26T12:41:32+00:00",
-      "scraped_at": "2026-08-28T21:15:48.332463",
+      "scraped_at": "2026-08-29T03:34:03.850491",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -4997,7 +5139,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-15T04:20:11+00:00",
-      "scraped_at": "2026-08-28T21:15:53.448986",
+      "scraped_at": "2026-08-29T03:34:08.312534",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5025,7 +5167,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-15T16:20:13+00:00",
-      "scraped_at": "2026-08-28T21:15:53.450658",
+      "scraped_at": "2026-08-29T03:34:08.314313",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5053,7 +5195,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-10T04:25:08+00:00",
-      "scraped_at": "2026-08-28T21:15:53.452398",
+      "scraped_at": "2026-08-29T03:34:08.315958",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5081,7 +5223,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-09T03:32:22+00:00",
-      "scraped_at": "2026-08-28T21:15:55.243339",
+      "scraped_at": "2026-08-29T03:34:09.795158",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5109,7 +5251,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-24T17:36:49+00:00",
-      "scraped_at": "2026-08-28T21:15:59.139339",
+      "scraped_at": "2026-08-29T03:34:13.133487",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5137,7 +5279,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-17T13:03:42+00:00",
-      "scraped_at": "2026-08-28T21:15:59.141086",
+      "scraped_at": "2026-08-29T03:34:13.135277",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5165,7 +5307,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-13T09:26:49+00:00",
-      "scraped_at": "2026-08-28T21:15:59.143598",
+      "scraped_at": "2026-08-29T03:34:13.137920",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5193,7 +5335,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-13T09:20:04+00:00",
-      "scraped_at": "2026-08-28T21:15:59.144413",
+      "scraped_at": "2026-08-29T03:34:13.138868",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5221,7 +5363,35 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-10T04:25:04+00:00",
-      "scraped_at": "2026-08-28T21:15:59.145378",
+      "scraped_at": "2026-08-29T03:34:13.139821",
+      "match_score": 0,
+      "match_reasons": [
+        "Boomi/Integration role matching your profile"
+      ],
+      "missing_skills": [
+        "MuleSoft",
+        "Talend",
+        "API Management"
+      ],
+      "nice_to_have_present": [],
+      "recommendation": "MAYBE",
+      "recommendation_reason": "Title-based match",
+      "seniority_match": true,
+      "remote_type": "not_specified",
+      "scored_by": "title_fallback"
+    },
+    {
+      "id": "jobicy_151957",
+      "title": "(711) Senior Manager, Talent Acquisition",
+      "company": "Arlo Solutions",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151957-711-senior-manager-talent-acquisition",
+      "description": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and meet the needs of both our customers and consultants by delivering quality, value-added solutions. Our solutions are designed and managed to not only reduce costs, but to improve business processes, accelerate response time, improve services to end-users, and give our customers a competitive edge, now and into the future. Position Overview The Senior Manager, Talent Acquisition owns operational management of the full-lifecycle recruiting function — translating TA strategy into a running, measured operation across both pre-award (business development / proposal-stage) and post-award/internal (active contract delivery, Headquarters) hiring. This role is the operational backbone of TA and owns the ATS/HRIS environment the function runs on, builds and reports the KPI framework leadership uses to gauge hiring health, manages all TA vendor and staffing-partner relationships, and owns TA's compliance posture. The Senior Manager partners directly with the Director of HR on workforce and pipeline strategy so recruiting execution and broader HR workforce planning. This is a primarily remote position; some travel will be required to represent the company at recruitment events, job fairs, and conferences. Work Location: Remote Clearance: N/A Job Responsibilities and/or Success Factors Own day-to-day operations of the TA function — staffing cadence, requisition flow, SLA adherence, and escalation resolution across pre-award and post-award hiring Partner with the Director of HR on workforce and pipeline strategy, translating headcount forecasts and contract growth into proactive sourcing plans Own the TA KPI framework (time-to-fill, offer-acceptance rate, pipeline health) and present performance data to leadership Drive process improvement across the recruiting lifecycle and own the JD library, interview guides, and sourcing playbooks Manage TA vendor and staffing-partner relationships, including contract negotiation and performance accountability Support HR with EEO/OFCCP recordkeeping, clearance-related hiring requirements, and audit readiness Own ATS administration and partner with I.T. to drive the systems roadmap to support automation and reporting capabilities Directly manage and develop the TA team, including performance management and career development Represent the company at recruitment events, job fairs, and industry conferences as needed Core Capabilities Operational leadership: runs a multi-workstream function with competing SLAs and stakeholders Data fluency: builds and interprets KPI dashboards, not just reads them Vendor negotiation & contract management: comfortable owning cost and performance accountability for external partne",
+      "source": "jobicy",
+      "category": "remote_worldwide",
+      "type": "Remote Worldwide",
+      "date_posted": "2026-08-28T18:58:59+00:00",
+      "scraped_at": "2026-08-29T03:34:13.144588",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5249,7 +5419,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T12:42:45+00:00",
-      "scraped_at": "2026-08-28T21:15:59.147533",
+      "scraped_at": "2026-08-29T03:34:13.148061",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5277,7 +5447,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T11:58:14+00:00",
-      "scraped_at": "2026-08-28T21:15:59.149731",
+      "scraped_at": "2026-08-29T03:34:13.150363",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5305,7 +5475,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-28T05:05:09+00:00",
-      "scraped_at": "2026-08-28T21:15:59.155813",
+      "scraped_at": "2026-08-29T03:34:13.156918",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5333,7 +5503,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:47:31+00:00",
-      "scraped_at": "2026-08-28T21:15:59.162638",
+      "scraped_at": "2026-08-29T03:34:13.164705",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5361,7 +5531,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T16:09:11+00:00",
-      "scraped_at": "2026-08-28T21:15:59.175683",
+      "scraped_at": "2026-08-29T03:34:13.178835",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5389,7 +5559,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T10:50:50+00:00",
-      "scraped_at": "2026-08-28T21:15:59.184009",
+      "scraped_at": "2026-08-29T03:34:13.187610",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5417,63 +5587,7 @@
       "category": "remote_worldwide",
       "type": "Remote Worldwide",
       "date_posted": "2026-08-27T09:41:43+00:00",
-      "scraped_at": "2026-08-28T21:15:59.190102",
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "jobicy_151791",
-      "title": "Compliance and Security Lead",
-      "company": "Ada",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/151791-compliance-and-security-lead",
-      "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise with powerful AI agent management technology to accelerate businesses’ AI maturity to keep them ahead of the curve. With Ada, 83% of customer conversations—and counting—are effortlessly resolved through automation, giving teams more time back, companies more resources to focus on growth, and customers more life to focus on what matters most to them. Established in 2016, Ada is a Canadian company that has powered over 5.5 billion interactions for leading brands like Square, YETI, IPSY, and Monday.com , saving millions of hours of human effort. Backed with over $250M in funding from tier-one investors including Accel, Bessemer, FirstMark, Spark, and Version One Ventures, Ada is a pioneer in the management and application of AI in customer service. At Ada, we see growth as a reflection of each individual owner’s personal growth. That’s why our values are rooted in driving progress and continuous improvement. If you’re ambitious and eager to grow, Ada could be the place for you. Learn more at www.ada.cx . Security at Ada Ada's AI Agent resolves customer service conversations for enterprises — which means our customers trust us with their customers' data and their brand. Security and compliance are how we earn and keep that trust. The Security team partners across engineering, legal, and go-to-market to make sure Ada's controls are real, evidenced, and easy for customers to verify. Our Role As Compliance & Security Lead, you own Ada's security compliance program end to end: audits, customer trust, vendor risk, vulnerability management, and the control framework that ties it all together. Our audit season runs August through November — your mandate is to automate evidence collection and process to the point where the team is audit-ready year-round, not scrambling seasonally. You are the internal source of truth on compliance status and the external face of Ada's security posture: you will own security conversations with enterprise prospects and customers. As agentic AI regulation takes shape (starting with AIUC), you translate framework movement into concrete requirements for the platform team. About You Deep audit experience across SOC 1, SOC 2, PCI DSS, NIST frameworks, AICPA standards, and PII/privacy requirements. You have run audits end to end: evidence collection, control mapping, and auditor coordination. Experience working directly with major audit firms such as Deloitte or EY; you know what a gold-standard audit engagement looks like from the inside. You have inherited manual compliance programs and driven them toward automation tooling, process, and repeatabi",
-      "source": "jobicy",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "date_posted": "2026-08-27T09:41:22+00:00",
-      "scraped_at": "2026-08-28T21:15:59.191976",
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "jobicy_151788",
-      "title": "Senior Application Security Manager",
-      "company": "Pleo",
-      "location": "Denmark,  Portugal,  Spain,  UK",
-      "url": "https://jobicy.com/jobs/151788-senior-application-security-manager",
-      "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’. The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years. Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. About the role We're looking for a Senior Application Security Manager to join our Cybersecurity team at Pleo. In this role, you'll own vulnerability management and set the long-term application security strategy, turning a growing stream of signal into a risk-ranked plan the engineering organisation can actually act on. If you're a player-coach who wants high leverage with low bureaucracy, and you'd rather mature a program than maintain one, then this is the opportunity for you! Who you'll be working with and reporting to You'll report to our VP of Fraud & Security and lead a small AppSec team with dotted lines to other security members. Your primary customers are Pleo's engineering squads, and your closest partners are DevSecOps, who feed you signal and automation, alongside SecOps, Risk & Compliance, Privacy, and Legal. Our team is highly collaborative and dedicated to keeping Pleo and its customers safe. You'll also have the chance to shape how the wider organisation thinks about security, well beyond your own team. What you'll be doing As a Senior Application Security Manager, you will: Own vulnerability management end to end, covering reporting, triage, mitigation, and the long-term strategy for application security as a department. Build a structured, risk-ranked approach to remediation, so the organisation knows what to fix first and why. Establish clear, company-wide reporting on our vulnerability posture, giving leadership the data-driven visibility they need. Set and deliver an AppSec roadmap, bringing delivery expectations and accountability to a team that hasn't had them. Partner with engineering squads as customers rather than gatekeeping them, embedding proactive security processes into how they already work. Multiply your team's impact through automation and AI, so coverage scales faster than ",
-      "source": "jobicy",
-      "category": "remote_worldwide",
-      "type": "Remote Worldwide",
-      "date_posted": "2026-08-27T09:40:29+00:00",
-      "scraped_at": "2026-08-28T21:15:59.195195",
+      "scraped_at": "2026-08-29T03:34:13.194595",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5502,7 +5616,7 @@
       "type": "Remote Worldwide",
       "salary": "40 100 USD",
       "date_posted": 1787932211,
-      "scraped_at": "2026-08-28T21:16:01.785731",
+      "scraped_at": "2026-08-29T03:34:15.010818",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5531,7 +5645,7 @@
       "type": "Remote Worldwide",
       "salary": "95000 120000 USD",
       "date_posted": 1786792464,
-      "scraped_at": "2026-08-28T21:16:01.795267",
+      "scraped_at": "2026-08-29T03:34:15.021773",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5560,7 +5674,7 @@
       "type": "Remote Worldwide",
       "salary": "USD",
       "date_posted": 1786759456,
-      "scraped_at": "2026-08-28T21:16:01.795979",
+      "scraped_at": "2026-08-29T03:34:15.022598",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5589,7 +5703,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1786755989,
-      "scraped_at": "2026-08-28T21:16:01.797332",
+      "scraped_at": "2026-08-29T03:34:15.023897",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5618,7 +5732,7 @@
       "type": "Remote Worldwide",
       "salary": "CAD",
       "date_posted": 1786517981,
-      "scraped_at": "2026-08-28T21:16:01.803362",
+      "scraped_at": "2026-08-29T03:34:15.030176",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5647,7 +5761,7 @@
       "type": "Remote Worldwide",
       "salary": "",
       "date_posted": 1785985925,
-      "scraped_at": "2026-08-28T21:16:01.805267",
+      "scraped_at": "2026-08-29T03:34:15.032003",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5676,7 +5790,7 @@
       "type": "Remote Worldwide",
       "salary": "PLN",
       "date_posted": 1785745761,
-      "scraped_at": "2026-08-28T21:16:01.807948",
+      "scraped_at": "2026-08-29T03:34:15.034757",
       "match_score": 0,
       "match_reasons": [
         "Boomi/Integration role matching your profile"
@@ -5694,73 +5808,15 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "senior-software-engineer-sdet-at-octave-4458987673",
-      "title": "Senior Software Engineer, SDET",
-      "company": "Octave",
-      "location": "Greater Houston",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-sdet-at-octave-4458987673",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:37.712149",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "senior-software-engineer-sdet-at-octave-4458990631",
-      "title": "Senior Software Engineer, SDET",
-      "company": "Octave",
-      "location": "Madison, AL",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-sdet-at-octave-4458990631",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:37.767637",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "senior-software-quality-engineer-%E2%80%93-ai-automation-tester-at-wisecode-4460127400",
-      "title": "Senior Software Quality Engineer – AI Automation Tester",
-      "company": "WISEcode",
+      "id": "senior-software-engineer-in-test-at-multi-media-llc-4459432141",
+      "title": "Senior Software Engineer in Test",
+      "company": "Multi Media, LLC",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-quality-engineer-%E2%80%93-ai-automation-tester-at-wisecode-4460127400",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-in-test-at-multi-media-llc-4459432141",
       "source": "linkedin",
       "category": "remote_worldwide",
-      "date_posted": "2026-08-27",
-      "scraped_at": "2026-08-28T21:19:37.825201",
+      "date_posted": "2026-08-28",
+      "scraped_at": "2026-08-29T03:38:17.371395",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -5781,44 +5837,15 @@
       "scored_by": "title_fallback"
     },
     {
-      "id": "lead-qa-engineer-at-north-south-consulting-group-llc-4458426534",
-      "title": "Lead QA Engineer",
-      "company": "North South Consulting Group, LLC",
-      "location": "Elizabethtown, KY",
-      "url": "https://www.linkedin.com/jobs/view/lead-qa-engineer-at-north-south-consulting-group-llc-4458426534",
+      "id": "senior-software-engineer-in-test-i-at-vyne-4460524259",
+      "title": "Senior Software Engineer in Test I",
+      "company": "Vyne",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-in-test-i-at-vyne-4460524259",
       "source": "linkedin",
       "category": "remote_worldwide",
       "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:38.051788",
-      "description": "",
-      "type": "Remote Worldwide",
-      "easy_apply": false,
-      "match_score": 0,
-      "match_reasons": [
-        "Boomi/Integration role matching your profile"
-      ],
-      "missing_skills": [
-        "MuleSoft",
-        "Talend",
-        "API Management"
-      ],
-      "nice_to_have_present": [],
-      "recommendation": "MAYBE",
-      "recommendation_reason": "Title-based match",
-      "seniority_match": true,
-      "remote_type": "not_specified",
-      "scored_by": "title_fallback"
-    },
-    {
-      "id": "qa-automation-lead-ai-expertise-at-redleo-software-inc-4460399039",
-      "title": "QA Automation Lead (AI expertise)",
-      "company": "REDLEO SOFTWARE INC.",
-      "location": "New Jersey, United States",
-      "url": "https://www.linkedin.com/jobs/view/qa-automation-lead-ai-expertise-at-redleo-software-inc-4460399039",
-      "source": "linkedin",
-      "category": "remote_worldwide",
-      "date_posted": "2026-08-28",
-      "scraped_at": "2026-08-28T21:19:38.107739",
+      "scraped_at": "2026-08-29T03:38:17.729917",
       "description": "",
       "type": "Remote Worldwide",
       "easy_apply": false,
@@ -5891,6 +5918,6 @@
     "good": 0,
     "india_remote": 36,
     "sponsorship": 30,
-    "remote_worldwide": 139
+    "remote_worldwide": 140
   }
 }
